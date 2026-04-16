@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1776251911221",
+    "word": "universiti",
+    "lang": "en",
+    "definition": "Viện đại học",
+    "ipa": "/junɪˈvɜːsəti/",
+    "example": null,
+    "pos": "Danh từ",
+    "saved_at": "2026-04-15T11:18:31.221Z"
+  },
+  {
+    "id": "1776251605520",
+    "word": "student",
+    "lang": "en",
+    "definition": "Học sinh đại học, sinh viên.",
+    "ipa": "/ˈstuː.dᵊnt/",
+    "example": null,
+    "pos": "Danh từ",
+    "saved_at": "2026-04-15T11:13:25.520Z"
+  },
+  {
+    "id": "1776251584112",
+    "word": "biologist",
+    "lang": "en",
+    "definition": "Nhà nghiên cứu về sinh vật học.",
+    "ipa": "/bɑɪ.ˈɑː.lə.dʒist/",
+    "example": null,
+    "pos": "Danh từ",
+    "saved_at": "2026-04-15T11:13:04.112Z"
+  },
+  {
+    "id": "1776250722193",
+    "word": "week",
+    "definition": "tuần: khoảng thời gian bằng bảy ngày",
+    "ipa": "",
+    "example": null,
+    "pos": "Danh từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:58:42.193Z"
+  },
+  {
+    "id": "1776250701958",
+    "word": "iran",
+    "definition": "Một quốc gia của Tây Á, ở Trung Đông. Tên chính thức: Cộng hòa Hồi giáo Iran. Thủ đô: Tehran.",
+    "ipa": "/aɪˈɹæn/",
+    "example": null,
+    "pos": "Danh từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:58:21.958Z"
+  },
+  {
+    "id": "1776250683257",
+    "word": "interesting",
+    "definition": "hiện tại phân từ của interest",
+    "ipa": "/ˈɪn.tə.rəst.iɳ/",
+    "example": null,
+    "pos": "Động từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:58:03.257Z"
+  },
+  {
+    "id": "1776250670626",
+    "word": "thinker",
+    "definition": "Người suy nghĩ.",
+    "ipa": "/ˈθɪŋ.kɜː/",
+    "example": null,
+    "pos": "Danh từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:57:50.626Z"
+  },
+  {
+    "id": "1776250667403",
+    "word": "think",
+    "definition": "Nghĩ, suy nghĩ, ngẫm nghĩ.",
+    "ipa": "/ˈθɪŋk/",
+    "example": "think twice before doing",
+    "pos": "Động từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:57:47.403Z"
+  },
+  {
+    "id": "1776250619449",
+    "word": "old",
+    "definition": "Già.",
+    "ipa": "",
+    "example": "an old man",
+    "pos": "Tính từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:59.449Z"
+  },
+  {
+    "id": "1776250615701",
+    "word": "news",
+    "definition": "Tin, tin tức.",
+    "ipa": "/ˈnuːz/",
+    "example": "good news",
+    "pos": "Danh từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:55.701Z"
+  },
+  {
+    "id": "1776250609706",
+    "word": "verify",
+    "definition": "Thẩm tra, kiểm lại.",
+    "ipa": "",
+    "example": "to verify a statement",
+    "pos": "Động từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:49.706Z"
+  },
+  {
+    "id": "1776250589952",
+    "word": "hello",
+    "definition": "Chào anh!, chào chị!",
+    "ipa": "/hə.ˈloʊ̯/",
+    "example": null,
+    "pos": "Thán từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:29.952Z"
+  }
+]

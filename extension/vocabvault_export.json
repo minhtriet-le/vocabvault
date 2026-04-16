@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1776250619449",
+    "word": "old",
+    "definition": "Già.",
+    "ipa": "",
+    "example": "an old man",
+    "pos": "Tính từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:59.449Z"
+  },
+  {
+    "id": "1776250615701",
+    "word": "news",
+    "definition": "Tin, tin tức.",
+    "ipa": "/ˈnuːz/",
+    "example": "good news",
+    "pos": "Danh từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:55.701Z"
+  },
+  {
+    "id": "1776250609706",
+    "word": "verify",
+    "definition": "Thẩm tra, kiểm lại.",
+    "ipa": "",
+    "example": "to verify a statement",
+    "pos": "Động từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:49.706Z"
+  },
+  {
+    "id": "1776250589952",
+    "word": "hello",
+    "definition": "Chào anh!, chào chị!",
+    "ipa": "/hə.ˈloʊ̯/",
+    "example": null,
+    "pos": "Thán từ",
+    "lang": "en",
+    "savedAt": "2026-04-15T10:56:29.952Z"
+  }
+]

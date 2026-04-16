@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { width: 300px; font-family: sans-serif; padding: 15px; margin: 0; background: #f1f5f9; }
+    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+    .logo { color: #6366f1; font-weight: bold; font-size: 18px; }
+    .word-list { max-height: 400px; overflow-y: auto; }
+    .word-item { background: white; padding: 10px; border-radius: 8px; margin-bottom: 8px; border: 1px solid #e2e8f0; }
+    .word-text { font-weight: bold; color: #0f172a; }
+    .word-def { font-size: 13px; color: #64748b; margin-top: 4px; }
+    .empty { text-align: center; color: #94a3b8; padding: 20px; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="logo">VocabVault</div>
+    <button id="open-dashboard" style="font-size: 11px; cursor: pointer;">Dashboard</button>
+  </div>
+  <div id="word-list" class="word-list">
+    <div class="empty">Chưa có từ nào được lưu.</div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

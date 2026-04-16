@@ -1,0 +1,6 @@
+{
+  "name": "VocabVault",
+  "description": "A smart vocabulary management system with a Chrome extension and Gemini-powered definitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
