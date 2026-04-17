@@ -1,122 +1,332 @@
 [
   {
-    "id": "1776251911221",
-    "word": "universiti",
-    "lang": "en",
-    "definition": "Viện đại học",
-    "ipa": "/junɪˈvɜːsəti/",
-    "example": null,
-    "pos": "Danh từ",
-    "saved_at": "2026-04-15T11:18:31.221Z"
-  },
-  {
-    "id": "1776251605520",
-    "word": "student",
-    "lang": "en",
-    "definition": "Học sinh đại học, sinh viên.",
-    "ipa": "/ˈstuː.dᵊnt/",
-    "example": null,
-    "pos": "Danh từ",
-    "saved_at": "2026-04-15T11:13:25.520Z"
-  },
-  {
-    "id": "1776251584112",
-    "word": "biologist",
-    "lang": "en",
-    "definition": "Nhà nghiên cứu về sinh vật học.",
-    "ipa": "/bɑɪ.ˈɑː.lə.dʒist/",
-    "example": null,
-    "pos": "Danh từ",
-    "saved_at": "2026-04-15T11:13:04.112Z"
-  },
-  {
-    "id": "1776250722193",
-    "word": "week",
-    "definition": "tuần: khoảng thời gian bằng bảy ngày",
+    "id": "1776400203539",
+    "word": "real",
+    "definition": "(adj.) 1. thực, thực tế, có thực; 2. thật (không phải giả, không phải nhân tạo); 3. chân chính, đúng, xứng đáng với tên gọi; 4. <pháp> bất động | (n.) 1. thực tế",
     "ipa": "",
-    "example": null,
-    "pos": "Danh từ",
+    "example": "",
+    "pos": "adj.",
     "lang": "en",
-    "savedAt": "2026-04-15T10:58:42.193Z"
+    "savedAt": "2026-04-17T04:30:03.539Z"
   },
   {
-    "id": "1776250701958",
-    "word": "iran",
-    "definition": "Một quốc gia của Tây Á, ở Trung Đông. Tên chính thức: Cộng hòa Hồi giáo Iran. Thủ đô: Tehran.",
-    "ipa": "/aɪˈɹæn/",
-    "example": null,
-    "pos": "Danh từ",
+    "id": "1776400195280",
+    "word": "big",
+    "definition": "(adj.) 1. to, lớn; 2. bụng to, có mang, có chửa; 3. quan trọng; 4. hào hiệp, phóng khoáng, rộng lượng; 5. huênh hoang, khoác lác; 6. (từ lóng) quá tự tin, tự phụ tự mãn; làm bộ làm tịch | (adv.) 1. ra vẻ quan trọng, với vẻ quan trọng; 2. huênh hoang khoác lác",
+    "ipa": "/big/",
+    "example": "",
+    "pos": "adj.",
     "lang": "en",
-    "savedAt": "2026-04-15T10:58:21.958Z"
+    "savedAt": "2026-04-17T04:29:55.280Z"
   },
   {
-    "id": "1776250683257",
-    "word": "interesting",
-    "definition": "hiện tại phân từ của interest",
-    "ipa": "/ˈɪn.tə.rəst.iɳ/",
-    "example": null,
-    "pos": "Động từ",
+    "id": "1776398984936",
+    "word": "after",
     "lang": "en",
-    "savedAt": "2026-04-15T10:58:03.257Z"
+    "definition": "(phó từ) 1. sau, đằng sau | (giới từ) 1. sau, sau khi; 2. ở đằng sau, phía sau, đứng sau, liền sau; 3. theo sau, theo đuổi (diễn tả ý tìm kiếm, sự mong muốn, sự trông nom săn sóc); 4. phỏng theo, theo; 5. với, do, vì; 6. mặc dù, bất chấp; 7. cuối cùng, sau hết, rốt cuộc, xét cho cùng; 8. (xem) heart; 9. tàm tạm, tạm được; 10. (xem) that; 11. xin mời đi trước!; 12. sau anh thì đến lượt tôi đấy nhé; 13. (xem) day; 14. ngày hôm sau; 15. (xem) time | (liên từ) 1. sau khi | (tính từ) 1. sau này, sau đây, tiếp sau; 2. (hàng hải) ở đằng sau, ở phía sau",
+    "ipa": "/'ɑ:ftə/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T04:09:44.936Z"
   },
   {
-    "id": "1776250670626",
-    "word": "thinker",
-    "definition": "Người suy nghĩ.",
-    "ipa": "/ˈθɪŋ.kɜː/",
-    "example": null,
-    "pos": "Danh từ",
+    "id": "1776398981734",
+    "word": "shortly",
     "lang": "en",
-    "savedAt": "2026-04-15T10:57:50.626Z"
+    "definition": "(phó từ) 1. không lâu nữa, chẳng mấy chốc; 2. vắn tắt, tóm lại; 3. cộc lốc",
+    "ipa": "/'ʃɔ:tli/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T04:09:41.734Z"
   },
   {
-    "id": "1776250667403",
-    "word": "think",
-    "definition": "Nghĩ, suy nghĩ, ngẫm nghĩ.",
-    "ipa": "/ˈθɪŋk/",
-    "example": "think twice before doing",
-    "pos": "Động từ",
+    "id": "1776398973268",
+    "word": "index",
     "lang": "en",
-    "savedAt": "2026-04-15T10:57:47.403Z"
+    "definition": "(danh từ) 1. ngón tay trỏ ((cũng) index finger); 2. chỉ số; sự biểu thị; 3. kim (trên đồng hồ đo...); 4. bảng mục lục (các đề mục cuối sách); bản liệt kê; 5. (tôn giáo) bản liệt kê các loại sách bị giáo hội cấm; 6. (toán học) số mũ; 7. (ngành in) dấu chỉ; 8. nguyên tắc chỉ đạo | (ngoại động từ) 1. bảng mục lục cho (sách); ghi vào bản mục lục ((thường) động tính từ quá khứ); 2. cấm lưu hành (một cuốn sách...); 3. chỉ rõ, là dấu hiệu của",
+    "ipa": "/'indeks/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:33.268Z"
   },
   {
-    "id": "1776250619449",
+    "id": "1776398966183",
+    "word": "rose",
+    "lang": "en",
+    "definition": "(danh từ) 1. hoa hồng; cây hoa hồng; 2. cô gái đẹp nhất, hoa khôi; 3. bông hồng năm cánh (quốc huy của nước Anh); 4. màu hồng; (số nhiều) nước da hồng hào; 5. nơ hoa hồng (đính ở mũ, ở giầy...); 6. hương sen (bình tưới); 7. (như) rose-diamond; 8. (như) rose_window; 9. chân sừng (phần lồi lên ở gốc sừng nai, hươu...); 10. (y học) (the rose) bệnh viêm quầng; 11. tìm thú hưởng lạc; 12. đời không phải hoa hồng cả, đời sống không phải lúc nào cũng sung sướng an nhàn; 13. cuộc sống đầy lạc thú; 14. (tục ngữ) không có hoa hồng nào mà không có gai, không có điều gì sướng mà không có cái khổ kèm theo; 15. bí mật âm thầm, kín đáo, lén lút | (tính từ) 1. hồng, màu hồng | (ngoại động từ) 1. nhuộm hồng, nhuốm hồng",
+    "ipa": "/rouz/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:26.183Z"
+  },
+  {
+    "id": "1776398962688",
+    "word": "asian",
+    "lang": "en",
+    "definition": "(danh từ) 1. người châu á | (tính từ) 1. thuộc châu á",
+    "ipa": "",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:22.688Z"
+  },
+  {
+    "id": "1776398960310",
+    "word": "stock",
+    "lang": "en",
+    "definition": "(danh từ) 1. kho dữ trữ, kho; hàng trong kho; 2. (tài chính) vốn; cổ phân; 3. (thực vật học) thân chính; 4. (thực vật học) gốc ghép; 5. để (đe); 6. báng (súng), cán, chuôi; 7. nguyên vật liệu; 8. dòng dõi, thành phần xuất thân; 9. đàn vật nuôi; 10. (sinh vật học) thể quần tập, tập đoàn; 11. (số nhiều) giàn tàu; 12. (số nhiều) (sử học) cái cùm; 13. (xem) lock; 14. (xem) dead; 15. lý lẽ tủ; 16. có sẵn; 17. mua cổ phần của (công ty...); 18. chú trọng (cái gì), lưu tâm đến (cái gì); 19. (từ Mỹ,nghĩa Mỹ),  (thông tục) tin ở (cái gì); 20. kiểm kê hàng trong kho; 21. (nghĩa bóng) nhận xét, đánh giá | (ngoại động từ) 1. cung cấp (hàng hoá cho một cửa hàng, súc vật cho một trang trại...); 2. tích trữ; 3. lắp báng vào (súng...), lắp cán vào, lắp chuôi vào; 4. trồng cỏ (lên một mảnh đất); 5. (sử học) cùm | (nội động từ) 1. đâm chồi (cây); 2. ((thường) + up) để vào kho, cất vào kho)",
+    "ipa": "/stɔk/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:20.310Z"
+  },
+  {
+    "id": "1776398955504",
+    "word": "rally",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự tập hợp lại; 2. sự lấy lại sức; 3. (thể dục,thể thao) đường bóng qua lại nhanh (quần vợt, bóng bàn); 4. đại hội; 5. (từ Mỹ,nghĩa Mỹ) mít tinh lớn | (ngoại động từ) 1. tập hợp lại; 2. củng cố lại, trấn tĩnh lại | (nội động từ) 1. tập hợp lại; 2. bình phục, lấy lại sức; 3. tấp nập lại; 4. (thể dục,thể thao) đưa bóng qua lại nhanh (quần vợt, bóng bàn) | (ngoại động từ) 1. chế giễu, chế nhạo",
+    "ipa": "/'ræli/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:15.504Z"
+  },
+  {
+    "id": "1776398951782",
+    "word": "hope",
+    "lang": "en",
+    "definition": "(danh từ) 1. hy vọng; 2. nguồn hy vọng; 3. từ bỏ mọi hy vọng; 4. hy vọng hão huyền, uổng công; 5. (xem) while | (động từ) 1. hy vọng",
+    "ipa": "/houp/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:11.782Z"
+  },
+  {
+    "id": "1776398949257",
+    "word": "deal",
+    "lang": "en",
+    "definition": "(danh từ) 1. gỗ tùng, gỗ thông; 2. tấm ván cây; 3. số lượng; 4. sự chia bài, lượt chia bài, ván bài; 5. (thực vật học) sự giao dịch, sự thoả thuận mua bán; sự thông đồng ám muội; việc làm bất lương; 6. cách đối xử; sự đối đãi; 7. (từ Mỹ,nghĩa Mỹ) chính sách kinh tế xã hội mới (của Ru-dơ-ven năm 1932) | (ngoại động từ) 1. ((thường) + out) phân phát, phân phối; 2. chia (bài); 3. ban cho; 4. giáng cho, nện cho (một cú đòn...); 5. giáng cho ai một đòn | (nội động từ) 1. giao du với, có quan hệ với, giao thiệp với, chơi bời đi lại với; 2. (thương nghiệp) giao dịch buôn bán với; 3. (+ in) buôn bán; 4. chia bài; 5. giải quyết; đối phó; 6. đối xử, đối đãi, ăn ở, cư xử",
+    "ipa": "/di:l/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:09.257Z"
+  },
+  {
+    "id": "1776398942782",
+    "word": "street",
+    "lang": "en",
+    "definition": "(danh từ) 1. phố, đường phố; 2. hàng phố (tất cả những người ở cùng một phố); 3. (từ cổ,nghĩa cổ) đường cái; 4. (xem) queer; 5. vượt bất cứ ai trong một lĩnh vực nào; 6. cùng một hoàn cảnh với ai; 7. kém tài ai, không thể sánh với ai; 8. (xem) key; 9. bên lề đường (mua bán chứng khoán sau giờ thị trường chứng khoán đóng cửa); 10. suốt ngày lang thang ngoài phố; 11. sống bằng nghề mãi dâm; 12. (nghĩa bóng) hợp với khả năng và quyền lợi của mình; 13. khu báo chí (Anh); 14. thị trường tài chính (Anh); 15. phố Uôn (trung tâm ngân hàng tài chính Mỹ)",
+    "ipa": "/stri:t/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:09:02.782Z"
+  },
+  {
+    "id": "1776398939817",
+    "word": "wall",
+    "lang": "en",
+    "definition": "(danh từ) 1. tường, vách; 2. thàn, thành luỹ, thành quách; 3. lối đi sát tường nhà trên hè đường; 4. rặng cây ăn quả dựa vào tường; bức tường có cây ăn quả dựa vào; 5. (địa lý,địa chất) vách ngoài vỉa; 6. (giải phẫu) thành; 7. bị gạt bỏ; 8. bị phá sản, khánh kiệt; thất bại; 9. dồn ai vào chân tường, dồn ai vào thế bí; 10. húc đầu vào tường ((nghĩa đen) & (nghĩa bóng)); 11. (xem) see; 12. (xem) ear; 13. khôn sống vống chết; 14. (xem) back | (ngoại động từ) 1. xây tường bao quanh, xây thành bao quanh; 2. xây tường xung quanh; 3. ngăn bằng một bức tường; 4. xây bịt lại",
+    "ipa": "/wɔ:l/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:08:59.817Z"
+  },
+  {
+    "id": "1776398936632",
+    "word": "track",
+    "lang": "en",
+    "definition": "(danh từ) 1. dấu, vết; 2. ((thường) số nhiều) dấu chân, vết chân; 3. đường, đường đi, đường hẻm; 4. đường ray; 5. bánh xích (xe tăng...); 6. theo hút, theo vết chân, đi tìm; 7. đi đúng đường; 8. trật bánh (xe lửa); 9. lạc đường, lạc lối; 10. mất hút, mất dấu vết; 11. lạc đề; 12. che dấu vết tích; che giấu những việc đã làm; 13. theo dấu chân; 14. theo bước chân ai; theo ai, noi theo ai; 15. theo vết đường mòn ((nghĩa đen) & (nghĩa bóng)); 16. theo dõi; 17. giết ai ngay tại chỗ; 18. mất hút, mất dấu vết; 19. (từ lóng) chuồn, tẩu thoát, bỏ chạy, bỏ trốn; 20. đuổi theo (ai); 21. đi thẳng về phía; 22. đưa ai vào con đường đúng, đưa ai đi đúng đường đúng lối | (ngoại động từ) 1. theo vết, theo dõi, đi tìm, lùng bắt, truy nã; 2. để lại dấu vết; 3. (hàng hải) kéo (thuyền, tàu... theo đường kéo); 4. theo dõi và bắt được, theo vết mà bắt được; 5. theo dấu vết mà tìm ra, phát hiện ra qua dấu vết",
+    "ipa": "/træk/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:08:56.632Z"
+  },
+  {
+    "id": "1776398932996",
+    "word": "market",
+    "lang": "en",
+    "definition": "(danh từ) 1. chợ; 2. thị trường, nơi tiêu thụ; khách hàng; 3. giá thị trường; tình hình thị trường; 4. làm hỏng việc, làm lỡ việc; hỏng kế hoạch, tính sai; 5. bán rẻ danh dự | (ngoại động từ) 1. bán ở chợ, bán ở thị trường | (nội động từ) 1. mua bán ở chợ",
+    "ipa": "/'mɑ:kit/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:08:52.996Z"
+  },
+  {
+    "id": "1776398915492",
+    "word": "dictionary",
+    "lang": "en",
+    "definition": "(danh từ) 1. từ điển; 2. (định ngữ) có tính chất từ điển, có tính chất sách vở",
+    "ipa": "/'dikʃənəri/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:08:35.492Z"
+  },
+  {
+    "id": "1776398882924",
+    "word": "page",
+    "lang": "en",
+    "definition": "(danh từ) 1. trang (sách...); (nghĩa bóng) trang sử | (ngoại động từ) 1. đánh số trang | (danh từ) 1. tiểu đồng; 2. em nhỏ phục vụ (ở khách sạn, rạp hát...) | (ngoại động từ) 1. (từ Mỹ,nghĩa Mỹ) sai em nhỏ phục vụ gọi (ai) | (nội động từ) 1. (từ Mỹ,nghĩa Mỹ) làm em nhỏ phục vụ (ở khách sạn, rạp hát)",
+    "ipa": "/peidʤ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:08:02.924Z"
+  },
+  {
+    "id": "1776398880033",
+    "word": "inactive",
+    "lang": "en",
+    "definition": "(tính từ) 1. không hoạt động, thiếu hoạt động, ì",
+    "ipa": "/in'æktiv/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T04:08:00.033Z"
+  },
+  {
+    "id": "1776398872707",
+    "word": "video",
+    "lang": "en",
+    "definition": "(tính từ) 1. (từ Mỹ,nghĩa Mỹ) (thuộc) truyền hình; dùng trong truyền hình | (danh từ) 1. (từ Mỹ,nghĩa Mỹ) truyền hình",
+    "ipa": "/'vidiou/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T04:07:52.707Z"
+  },
+  {
+    "id": "1776398870588",
+    "word": "claim",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự đòi, sự yêu sách, sự thỉnh cầu; 2. quyền đòi, quyền yêu sách; 3. vật yêu sách; điều yêu sách; 4. (từ Mỹ,nghĩa Mỹ), (Uc) quyền khai thác mỏ; 5. (từ Mỹ,nghĩa Mỹ) luận điệu; lời xác nhận | (ngoại động từ) 1. đòi, yêu sách; thỉnh cầu; 2. đòi hỏi, bắt phải, đáng để; 3. nhận, khai là, cho là, tự cho là; 4. (từ Mỹ,nghĩa Mỹ) xác nhận, nhận chắc",
+    "ipa": "/kleim/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:07:50.588Z"
+  },
+  {
+    "id": "1776398866900",
+    "word": "right",
+    "lang": "en",
+    "definition": "(danh từ) 1. điều tốt, điều phải, điều đứng đắn; điều thiện; 2. quyền; 3. quyền lợi; 4. (số nhiều) thứ tự; 5. ((thường) số nhiều) thực trạng; 6. bên phải, phía tay phải; 7. (chính trị) (the right) phe hữu, phái hữu; 8. (thể dục,thể thao) cú đánh tay phải (quyền anh); 9. (săn bắn) phát súng bắn phía tay phải | (tính từ) 1. thẳng; 2. (toán học) vuông; 3. tốt, đúng, phải, có lý; 4. phái hữu (đối với trái); 5. thích hợp, cần phải có; 6. ở trong trạng thái (tinh thần hay vật chất) tốt; 7. (xem) side; 8. (nghĩa bóng) là cánh tay phải của ai; 9. đồng ý, được đấy!; 10. đồng ý, xin vâng lệnh | (phó từ) 1. thẳng; 2. ngay, chính; 3. đúng, phải; 4. tốt, đúng như ý muốn; 5. đáng, xứng đáng; 6. (trước tính từ hay phó từ) rất, hoàn toàn; 7. (trong một số danh vị, hàm ý tất cả); 8. Đức giám mục; 9. về bên phải; 10. ngay tức thì; 11. ngay ở đây; 12. ngay bây giờ; 13. (như) right away | (ngoại động từ) 1. lấy lại cho ngay, lấy lại cho thẳng (hướng đi của ô tô, tàu thuỷ...); 2. sửa sai, chỉnh đốn lại, uốn nắn lại; 3. bênh vực | (nội động từ) 1. lại đứng thẳng lên được; không ngả nghiêng tròng trành (tàu thuỷ)",
+    "ipa": "/rait/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:07:46.900Z"
+  },
+  {
+    "id": "1776398863284",
+    "word": "owner",
+    "lang": "en",
+    "definition": "(danh từ) 1. người chủ, chủ nhân; 2. (từ lóng) thuyền trưởng",
+    "ipa": "/'ounə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:07:43.284Z"
+  },
+  {
+    "id": "1776398854816",
+    "word": "summary",
+    "lang": "en",
+    "definition": "(tính từ) 1. tóm tắt, sơ lược, giản lược; 2. được miễn những thủ tục không cần thiết, được bớt những chi tiết không cần thiết | (danh từ) 1. bài tóm tắt",
+    "ipa": "/'sʌməri/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T04:07:34.816Z"
+  },
+  {
+    "id": "1776398816563",
+    "word": "share",
+    "lang": "en",
+    "definition": "(danh từ) 1. lưỡi cày, lưỡi máy gieo, lưỡi máy cày; 2. phần; 3. phần đóng góp; 4. sự chung vốn; cổ phần; 5. chia đều; chịu đều; 6. tranh, phần hơn | (động từ) 1. chia, phân chia, phân phối, phân cho; 2. có phần, có dự phần; tham gia; 3. chia, phân chia, phân phối",
+    "ipa": "/ʃeə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:06:56.563Z"
+  },
+  {
+    "id": "1776398810155",
+    "word": "much",
+    "lang": "en",
+    "definition": "(tính từ more; most) 1. nhiều, lắm; 2. không địch nổi (người nào về sức mạnh) | (phó từ) 1. nhiều, lắm; 2. hầu như; 3. như nhau, chẳng khác gì nhau; 4. bằng hai (ba...) chừng nầy, gấp hai (ba...) thế; 5. ngay cả đến... cũng không | (danh từ) 1. nhiều lắm, phần nhiều, phần lớn; 2. lợi dụng nhiều được; 3. coi trọng; 4. coi trọng, đánh giá cao; 5. là một nhạc sĩ chẳng có tài gì lắm; 6. chừng ấy, chừng nấy; 7. chừng này",
+    "ipa": "/mʌtʃ/",
+    "example": "",
+    "pos": "tính từ more; most",
+    "savedAt": "2026-04-17T04:06:50.155Z"
+  },
+  {
+    "id": "1776398805665",
+    "word": "trading",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự kinh doanh, việc mua bán",
+    "ipa": "",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T04:06:45.665Z"
+  },
+  {
+    "id": "1776398249672",
+    "word": "invoice",
+    "lang": "en",
+    "definition": "(danh từ) 1. (thương nghiệp) danh đơn hàng gửi (có giá và tiền gửi); 2. (từ hiếm,nghĩa hiếm) chuyến hàng gửi | (ngoại động từ) 1. lập danh đơn (hàng gửi...); 2. gửi danh đơn hàng gửi cho",
+    "ipa": "/'invɔis/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T03:57:29.672Z"
+  },
+  {
+    "id": "1776396595196",
     "word": "old",
-    "definition": "Già.",
-    "ipa": "",
-    "example": "an old man",
-    "pos": "Tính từ",
+    "definition": "(adj.) 1. già; 2. già giặn, có kinh nghiệm, lão luyện; 3. lên... tuổi, thọ; 4. cũ, nát, rách, cổ; 5. thân mến (để gọi); 6. xưa, ngày xưa; 7. đông bán cầu; 8. người bám như đỉa; 9. (từ lóng) bất cứ cái gì; 10. (từ lóng) nghỉ rất thoải mái; 11. (xem) bone; 12. cái thân này, cái thân già này | (n.) 1. of old xưa, ngày xưa",
+    "ipa": "/ould/",
+    "example": "",
+    "pos": "adj.",
     "lang": "en",
-    "savedAt": "2026-04-15T10:56:59.449Z"
+    "savedAt": "2026-04-17T03:29:55.196Z"
   },
   {
-    "id": "1776250615701",
-    "word": "news",
-    "definition": "Tin, tin tức.",
-    "ipa": "/ˈnuːz/",
-    "example": "good news",
-    "pos": "Danh từ",
+    "id": "1776396591062",
+    "word": "new",
+    "definition": "(adj.) 1. mới, mới mẻ, mới lạ; 2. khác hẳn; 3. tân tiến, tân thời, hiện đại; 4. mới nổi (gia đình, người); 5. mới từ (nơi nào đến); 6. chưa quen; 7. (xem) leaf | (adv.) 1. mới ((thường) trong từ ghép)",
+    "ipa": "/nju:/",
+    "example": "",
+    "pos": "adj.",
     "lang": "en",
-    "savedAt": "2026-04-15T10:56:55.701Z"
+    "savedAt": "2026-04-17T03:29:51.062Z"
   },
   {
-    "id": "1776250609706",
-    "word": "verify",
-    "definition": "Thẩm tra, kiểm lại.",
-    "ipa": "",
-    "example": "to verify a statement",
-    "pos": "Động từ",
+    "id": "1776396579917",
+    "word": "blockade",
     "lang": "en",
-    "savedAt": "2026-04-15T10:56:49.706Z"
+    "definition": "(danh từ) 1. sự phong toả, sự bao vây; 2. (từ Mỹ,nghĩa Mỹ) sự ùn lại, sự tắc nghẽn (xe cộ); 3. sự mắc nghẽn (vì tuyết, băng...) | (ngoại động từ) 1. phong toả, bao vây; 2. che mất (mắt); 3. (từ Mỹ,nghĩa Mỹ) làm tắc nghẽn, làm trở ngại (lối đi lại)",
+    "ipa": "/blɔ'keid/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T03:29:39.917Z"
   },
   {
-    "id": "1776250589952",
-    "word": "hello",
-    "definition": "Chào anh!, chào chị!",
-    "ipa": "/hə.ˈloʊ̯/",
-    "example": null,
-    "pos": "Thán từ",
+    "id": "1776396514401",
+    "word": "potential",
     "lang": "en",
-    "savedAt": "2026-04-15T10:56:29.952Z"
+    "definition": "(tính từ) 1. tiềm tàng; 2. (vật lý) (thuộc) điện thế; 3. (ngôn ngữ học) khả năng; 4. (từ hiếm,nghĩa hiếm) hùng mạnh | (danh từ) 1. tiềm lực; khả năng; 2. (vật lý) điện thế; thế; 3. (ngôn ngữ học) lối khả năng",
+    "ipa": "/pə'tenʃəl/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T03:28:34.401Z"
+  },
+  {
+    "id": "1776396301414",
+    "word": "prospect",
+    "lang": "en",
+    "definition": "(danh từ) 1. cảnh, toàn cảnh, viễn cảnh; 2. viễn tượng; 3. hy vọng ở tương lai, triển vọng tương lai, tiền đồ; 4. khách hàng tương lai; 5. (ngành mỏ) nơi hy vọng có quặng; 6. (ngành mỏ) mẫu quặng chưa rõ giá trị | (động từ) 1. điều tra, thăm dò (để tìm quặng...); khai thác thử (mỏ); 2. (nghĩa bóng) (+ for) tìm kiếm; 3. hứa hẹn (mỏ)",
+    "ipa": "/prospect/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T03:25:01.414Z"
+  },
+  {
+    "id": "1776396278968",
+    "word": "israel",
+    "lang": "en",
+    "definition": "(danh từ) 1. nhân dân Do thái; 2. (nghĩa bóng) nhóm người được Chúa chọn",
+    "ipa": "/'izreiəl/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T03:24:38.968Z"
   }
 ]
