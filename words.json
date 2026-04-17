@@ -1,5 +1,305 @@
 [
   {
+    "id": "1776408262603",
+    "word": "beach",
+    "definition": "(n.) 1. sỏi cát (ở bãi biển); 2. bãi biển | (v.) 1. cho (tàu thuyền) lên cạn",
+    "ipa": "/bi:tʃ/",
+    "example": "",
+    "pos": "n.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:44:22.603Z"
+  },
+  {
+    "id": "1776407756811",
+    "word": "biangular",
+    "definition": "(adj.) 1. có hai góc",
+    "ipa": "/bai'æɳgjulə/",
+    "example": "",
+    "pos": "adj.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:35:56.811Z"
+  },
+  {
+    "id": "1776407586782",
+    "word": "suable",
+    "definition": "(adj.) 1. (pháp lý) có thể truy tố được",
+    "ipa": "/'sju:əbl/",
+    "example": "",
+    "pos": "adj.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:33:06.782Z"
+  },
+  {
+    "id": "1776407581361",
+    "word": "un-english",
+    "definition": "(adj.) 1. (un-English) không Anh, không có tính chất Anh",
+    "ipa": "/'ʌn'iɳgliʃ/",
+    "example": "",
+    "pos": "adj.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:33:01.361Z"
+  },
+  {
+    "id": "1776407574818",
+    "word": "in absentia",
+    "definition": "(adv.) 1. trong khi vắng mặt",
+    "ipa": "/inæb'senʃiə/",
+    "example": "",
+    "pos": "adv.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:32:54.818Z"
+  },
+  {
+    "id": "1776407569407",
+    "word": "ca'canny",
+    "definition": "(adj.) 1. làm thong thả; 2. cuộc lãn công",
+    "ipa": "/kə'kæni/",
+    "example": "",
+    "pos": "adj.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:32:49.407Z"
+  },
+  {
+    "id": "1776407559841",
+    "word": "aba",
+    "definition": "(n.) 1. áo aba (áo ngoài giống hình cái túi người A-Rập)",
+    "ipa": "/'ɑ:bə/",
+    "example": "",
+    "pos": "n.",
+    "lang": "en",
+    "savedAt": "2026-04-17T06:32:39.841Z"
+  },
+  {
+    "id": "1776407346334",
+    "word": "bogus",
+    "lang": "en",
+    "definition": "(tính từ) 1. hư, ma giả, không có thật",
+    "ipa": "/'bougəs/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:29:06.334Z"
+  },
+  {
+    "id": "1776407344094",
+    "word": "text",
+    "lang": "en",
+    "definition": "(danh từ) 1. nguyên văn, nguyên bản; 2. bản văn, bài đọc, bài khoá; 3. đề, đề mục, chủ đề; 4. đoạn trích (trong kinh thánh); 5. (như) textbook; 6. (như) text-hand",
+    "ipa": "/tekst/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:29:04.094Z"
+  },
+  {
+    "id": "1776407340520",
+    "word": "receive",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. nhận, lĩnh, thu; 2. tiếp, tiếp đón, tiếp đãi; 3. kết nạp (ai vào một tổ chức), tiếp thu, tiếp nhận (một đề nghị...); 4. (pháp lý) chứa chấp (đồ gian); 5. chứa đựng; 6. đỡ, chịu, bị; được; 7. tin, công nhận là đúng; 8. đón (một đường bóng, một quả bóng phát đi) | (nội động từ) 1. tiếp khách (có ở nhà để tiếp khách); 2. nhận quà; lĩnh tiền, lĩnh lương; thu tiền",
+    "ipa": "/ri'si:v/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T06:29:00.520Z"
+  },
+  {
+    "id": "1776407337166",
+    "word": "pit",
+    "lang": "en",
+    "definition": "(danh từ) 1. hồ; 2. hầm khai thác, nơi khai thác; 3. hầm bẫy, hố bẫy (thú rừng...) ((cũng) pifall); 4. (như) cockpit; 5. (giải phẫu) hố, hốc, ổ, lõm; 6. lỗ rò (bệnh đậu mùa); 7. chỗ ngồi hạng nhì; khán giả ở hạng nhì (trong rạp hát); 8. trạm tiếp xăng thay lốp (trong một cuộc đua ô tô); 9. (từ Mỹ,nghĩa Mỹ) phòng giao dịch mua bán; 10. (the pit) địa ngục, âm ti ((cũng) the pit of helt) | (ngoại động từ) 1. để (rau...) xuống hầm trữ lương thực; 2. thả (hai con gà) vào sân chọi cho chọi nhau; (nghĩa bóng) đưa (ai) ra đọ sức với; 3. làm cho bị rỗ | (nội động từ) 1. giữ vết lằn (của ngón tay... khi ấn vào) (da, thịt...)",
+    "ipa": "/pit/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:57.166Z"
+  },
+  {
+    "id": "1776407328462",
+    "word": "tactic",
+    "lang": "en",
+    "definition": "(danh từ) 1. cách; chước; thủ đoạn, mưu kế, mẹo (phương tiện để thực hiện cái gì)",
+    "ipa": "",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:48.462Z"
+  },
+  {
+    "id": "1776407326582",
+    "word": "latest",
+    "lang": "en",
+    "definition": "(tính từ) 1. muộn nhất; mới nhất, gần đây nhất",
+    "ipa": "/'leitist/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:28:46.582Z"
+  },
+  {
+    "id": "1776407319030",
+    "word": "just",
+    "lang": "en",
+    "definition": "(tính từ) 1. công bằng; 2. xứng đáng, đích đáng, thích đáng; 3. chính đáng, chính nghĩa, hợp lẽ phải; 4. đúng, đúng đắn, có căn cứ | (phó từ) 1. đúng, chính; 2. vừa đúng, vừa đủ, vừa kịp; 3. vừa mới; 4. chỉ; 5. (thông tục) hoàn toàn, thật đúng là; 6. (thông tục), (thân mật) một chút, một tí; thử xem | (danh từ & nội động từ) 1. (như) joust",
+    "ipa": "/dʤʌst/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:28:39.030Z"
+  },
+  {
+    "id": "1776407307390",
+    "word": "operation",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự hoạt động; quá trình hoạt động; 2. thao tác; 3. hiệu quả, tác dụng; 4. sự giao dịch tài chính; 5. (y học) sự mổ xẻ; ca mổ; 6. (quân sự) cuộc hành quân; 7. (toán học) phép tính, phép toán",
+    "ipa": "/,ɔpə'reiʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:27.390Z"
+  },
+  {
+    "id": "1776407302991",
+    "word": "device",
+    "lang": "en",
+    "definition": "(danh từ) 1. phương sách, phương kế; chước mưu; 2. vật sáng chế ra (để dùng vào mục đích gì); thiết bị, dụng cụ, máy móc; 3. hình vẽ; hình trang trí; hình tương trưng; 4. châm ngôn; đề từ; 5. để mặc cho ai tự xoay sở lo liệu lấy",
+    "ipa": "/di'vais/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:22.991Z"
+  },
+  {
+    "id": "1776407299078",
+    "word": "camera",
+    "lang": "en",
+    "definition": "(danh từ) 1. máy ảnh; 2. máy quay phim; 3. (pháp lý) phòng riêng của quan toà; 4. họp kín; xử kín; 5. trong đời sống riêng",
+    "ipa": "/'kæmərə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:19.078Z"
+  },
+  {
+    "id": "1776407296382",
+    "word": "data",
+    "lang": "en",
+    "definition": "(danh từ) 1. số nhiều của datum; 2. ((thường) dùng như số ít) số liệu, dữ kiện; tài liệu, cứ liệu (cung cấp những điều cần thiết)",
+    "ipa": "/'deitə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:16.382Z"
+  },
+  {
+    "id": "1776407293550",
+    "word": "location",
+    "lang": "en",
+    "definition": "(danh từ) 1. vị trí; 2. sự xác định vị trí, sự định vị; 3. (từ Mỹ,nghĩa Mỹ) khu đất được cắm để chuẩn bị xây dựng; 4. (điện ảnh) hiện trường, trường quay ngoài trời; 5. (Uc) ấp trại, đồn điền",
+    "ipa": "/lou'keiʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:13.550Z"
+  },
+  {
+    "id": "1776407291310",
+    "word": "access",
+    "lang": "en",
+    "definition": "(danh từ) 1. lối vào, cửa vào, đường vào; 2. sự đến gần, sự cho vào, sự lui tới; quyền đến gần, quyền lui tới; 3. sự dâng lên (nước triều); 4. cơn; 5. sự thêm vào, sự tăng lên",
+    "ipa": "/'ækses/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:11.310Z"
+  },
+  {
+    "id": "1776407282158",
+    "word": "link",
+    "lang": "en",
+    "definition": "(danh từ) 1. đuốc, cây đuốc | (danh từ) 1. mắt xích, vòng xích, khâu xích; 2. mắt dây đạc (= 0, 20 m); 3. (số nhiều) khuy cửa tay; 4. mắt lưới; mắt áo sợi dệt, mắt áo sợi đan; 5. mối liên lạc; chỗ nối; vật để nối | (ngoại động từ) 1. nối, nối lại với nhau, kết hợp lại, liên kết lại, liên hợp lại; 2. khoác (tay) | (nội động từ) 1. kết hợp, liên kết; bị ràng buộc",
+    "ipa": "/liɳk/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:28:02.158Z"
+  },
+  {
+    "id": "1776407276886",
+    "word": "helpful",
+    "lang": "en",
+    "definition": "(tính từ) 1. giúp đỡ; giúp ích; có ích",
+    "ipa": "/'helpful/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:27:56.886Z"
+  },
+  {
+    "id": "1776407273904",
+    "word": "instead",
+    "lang": "en",
+    "definition": "(phó từ) 1. để thay vào, để thế cho; đáng lẽ là",
+    "ipa": "/in'sted/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:27:53.904Z"
+  },
+  {
+    "id": "1776407271750",
+    "word": "shelter",
+    "lang": "en",
+    "definition": "(danh từ) 1. chỗ che, chỗ nương tựa, chỗ ẩn, chỗ núp, hầm; 2. lầu, chòi; 3. phòng,  cabin (người lái) | (động từ) 1. che, che chở, bảo vệ; 2. ẩn, núp, nấp, trốn",
+    "ipa": "/'ʃeltə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:27:51.750Z"
+  },
+  {
+    "id": "1776407268455",
+    "word": "bomb",
+    "lang": "en",
+    "definition": "(danh từ) 1. quả bom; 2. ném một quả bom vào; 3. (nghĩa bóng) gây sự xôn xao, gây sự chấn động lớn | (ngoại động từ) 1. ném bom, oanh tạc; 2. ném bom để lùa (ai) ra khỏi (nơi nào); 3. chất bom (vào máy bay)",
+    "ipa": "/bɔm/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:27:48.455Z"
+  },
+  {
+    "id": "1776407265550",
+    "word": "about",
+    "lang": "en",
+    "definition": "(phó từ) 1. xung quanh, quanh quẩn, đây đó, rải rác; 2. đằng sau; 3. khoảng chừng, gần; 4. vòng; 5. (từ Mỹ,nghĩa Mỹ) rất giống nhau; 6. bận (làm gì); 7. đã dậy được (sau khi ốm); 8. có mặt; 9. đúng, đúng đắn; 10. tốt, được | (giới từ) 1. về; 2. quanh quất, quanh quẩn đây đó, rải rác; 3. xung quanh; 4. khoảng chừng, vào khoảng; 5. bận, đang làm (gì...); 6. ở (ai); trong người (ai), theo với (ai); 7. sắp, sắp sửa; 8. (từ hiếm,nghĩa hiếm) anh đang làm gì đấy?; 9. (xem) what | (ngoại động từ) 1. lái (thuyền...) theo hướng khác",
+    "ipa": "/ə'baut/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:27:45.550Z"
+  },
+  {
+    "id": "1776407262447",
+    "word": "information",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự cung cấp tin tức; sự thông tin; 2. tin tức, tài liệu; kiến thức; 3. (pháp lý) điều buộc tội",
+    "ipa": "/,infə'meinʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:27:42.447Z"
+  },
+  {
+    "id": "1776407255856",
+    "word": "with",
+    "lang": "en",
+    "definition": "(giới từ) 1. với, cùng, cùng với; 2. có; 3. ở, ở ni; 4. bằng; 5. về, về phần; 6. vì; 7. đối với; 8. mặc dầu; 9. cũng như; 10. nay mà, lúc mà, trong khi; 11. (xem) away; 12. tài xoay, giỏi xoay; 13. (xem) out",
+    "ipa": "/wi /",
+    "example": "",
+    "pos": "giới từ",
+    "savedAt": "2026-04-17T06:27:35.856Z"
+  },
+  {
+    "id": "1776407250919",
+    "word": "phone",
+    "lang": "en",
+    "definition": "(danh từ) 1. (ngôn ngữ học) âm tỏ lời nói | (danh từ) 1. (thông tục) máy điện thoại, dây nói | (động từ) 1. gọi dây nói; nói chuyện bằng dây nói",
+    "ipa": "/foun/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:27:30.919Z"
+  },
+  {
+    "id": "1776407245887",
+    "word": "as",
+    "lang": "en",
+    "definition": "(phó từ) 1. như; 2. là, với tư cách là; 3. cũng, bằng; 4. xa tận, cho tận đến; 5. đến chừng mức mà; 6. lui tận về; 7. về phía, về phần; 8. (xem) good; 9. (xem) as much as; 10. cũng chừng này, cũng bằng này; 11. cũng vậy; 12. (xem) well; 13. (xem) well; 14. (xem) yet | (liên từ) 1. lúc khi, trong khi mà; đúng lúc mà ((cũng) just as); 2. vì, bởi vì; 3. để, cốt để; 4. tuy rằng, dù rằng; 5. như thế, y như thế; 6. có thể là như vậy, có thể cho là như vậy; 7. (xem) though | (đại từ) 1. mà, người mà, cái mà...; như; 2. điều đó, cái đó, cái ấy | (danh từ) 1. đồng át (tiền La mã)",
+    "ipa": "/æz, əz/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:27:25.887Z"
+  },
+  {
     "id": "1776406850863",
     "word": "by",
     "lang": "en",

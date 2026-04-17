@@ -13,8 +13,14 @@ import {
 } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 import { Word } from "./types";
-import { lookupWord, getTTSUrl } from "./services/dictionaryService";
+import { lookupWord, getTTSUrl, getSuggestions } from "./services/dictionaryService";
 import { cn } from "./lib/utils";
+
+const EXPLORE_PREFIXES = [
+  "ab", "ac", "ad", "be", "bi", "br", "ca", "co", "de", "di",
+  "en", "ex", "im", "in", "in", "ir", "ma", "mi", "pr", "re",
+  "su", "tr", "un"
+];
 
 function toLocalDateKey(iso: string): string {
   const d = new Date(iso);
@@ -72,6 +78,9 @@ export default function App() {
   const [goalInput, setGoalInput] = useState("");
   const [isAdding, setIsAdding] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [inputSuggestions, setInputSuggestions] = useState<string[]>([]);
+  const [exploreSuggestions, setExploreSuggestions] = useState<string[]>([]);
+  const [loadingSuggestions, setLoadingSuggestions] = useState(false);
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const [flashWordId, setFlashWordId] = useState<string | null>(null);
   const [showFlashAnswer, setShowFlashAnswer] = useState(false);
@@ -237,10 +246,57 @@ export default function App() {
     () => words.find((w) => w.id === selectedWordId) || words[0],
     [words, selectedWordId]
   );
+  const savedWordSet = useMemo(() => new Set(words.map((w) => w.word.toLowerCase())), [words]);
+
+  const refreshExploreSuggestions = async () => {
+    setLoadingSuggestions(true);
+    const pool = [...EXPLORE_PREFIXES].sort(() => Math.random() - 0.5).slice(0, 6);
+
+    const fetched = await Promise.all(pool.map((prefix) => getSuggestions(prefix, 6)));
+    const unique: string[] = [];
+    for (const list of fetched) {
+      for (const candidate of list) {
+        const lower = candidate.toLowerCase();
+        if (savedWordSet.has(lower)) continue;
+        if (!unique.includes(candidate)) unique.push(candidate);
+        if (unique.length >= 2) break;
+      }
+      if (unique.length >= 2) break;
+    }
+
+    setExploreSuggestions(unique);
+    setLoadingSuggestions(false);
+  };
+
   const flashWord = useMemo(
     () => words.find((w) => w.id === flashWordId) || words[0],
     [words, flashWordId]
   );
+
+  useEffect(() => {
+    const query = newWord.trim().toLowerCase();
+    if (!query) {
+      setInputSuggestions([]);
+      return;
+    }
+
+    const timer = window.setTimeout(async () => {
+      const list = await getSuggestions(query, 4);
+      const filtered = list.filter((item) => !savedWordSet.has(item.toLowerCase()));
+      setInputSuggestions(filtered);
+    }, 180);
+
+    return () => window.clearTimeout(timer);
+  }, [newWord, savedWordSet]);
+
+  useEffect(() => {
+    void refreshExploreSuggestions();
+  }, [savedWordSet]);
+
+  const suggestedWords = useMemo(() => {
+    if (newWord.trim()) return inputSuggestions.slice(0, 2);
+    return exploreSuggestions.slice(0, 2);
+  }, [newWord, inputSuggestions, exploreSuggestions]);
 
   const stats = useMemo(() => ({
     total: words.length,
@@ -263,10 +319,10 @@ export default function App() {
       </header>
 
       {/* Main Grid */}
-      <main className="grid grid-cols-1 md:grid-cols-4 grid-rows-auto md:grid-rows-[repeat(3,minmax(0,1fr))] gap-5 flex-grow min-h-0 md:overflow-hidden">
+      <main className="grid grid-cols-1 md:grid-cols-10 grid-rows-auto md:grid-rows-[repeat(3,minmax(0,1fr))] gap-5 flex-grow min-h-0 md:overflow-hidden">
         
         {/* Featured Word Card */}
-        <section className="card md:col-span-2 md:row-span-2 bg-linear-to-br from-white to-slate-50 overflow-hidden min-h-0">
+        <section className="card md:col-span-5 md:row-span-2 bg-linear-to-br from-white to-slate-50 overflow-hidden min-h-0">
           <span className="card-title">Latest Word</span>
           {featuredWord ? (
             <motion.div 
@@ -306,7 +362,7 @@ export default function App() {
         </section>
 
         {/* History Card */}
-        <section className="card md:col-span-1 md:row-span-3 overflow-hidden min-h-0">
+        <section className="card md:col-span-2 md:row-span-3 overflow-hidden min-h-0">
           <span className="card-title flex items-center gap-2">
             <History className="w-4 h-4" />
             Lookup History
@@ -349,7 +405,7 @@ export default function App() {
         </section>
 
         {/* Stats 1: Vocabulary Count */}
-        <section className="card">
+        <section className="card md:col-span-3">
           <span className="card-title flex items-center gap-2">
             <BarChart3 className="w-4 h-4" />
             Vocabulary
@@ -387,7 +443,7 @@ export default function App() {
         </section>
 
         {/* Random Flash Card */}
-        <section className="card md:row-span-2 overflow-hidden min-h-0">
+        <section className="card md:col-span-3 md:row-span-2 overflow-hidden min-h-0">
           <span className="card-title flex items-center gap-2">
             <Shuffle className="w-4 h-4" />
             Random Flash Card
@@ -427,36 +483,70 @@ export default function App() {
         </section>
 
         {/* Add Word Card */}
-        <section className="card">
+        <section className="card md:col-span-3">
           <span className="card-title">Add Word</span>
           <form onSubmit={handleAddWord} className="flex flex-col gap-3">
-            <div className="relative">
-              <input
-                type="text"
-                value={newWord}
-                onChange={(e) => setNewWord(e.target.value)}
-                placeholder="Enter an English word..."
-                className="w-full bg-slate-50 border border-border rounded-lg p-2.5 text-sm focus:outline-hidden focus:ring-2 focus:ring-primary/20"
-              />
-              {isAdding && (
-                <div className="absolute right-2.5 top-2.5">
-                  <Loader2 className="w-5 h-5 text-primary animate-spin" />
-                </div>
-              )}
+            <div className="flex gap-2">
+              <div className="relative flex-grow">
+                <input
+                  type="text"
+                  value={newWord}
+                  onChange={(e) => setNewWord(e.target.value)}
+                  placeholder="Enter an English word..."
+                  className="w-full bg-slate-50 border border-border rounded-lg p-2.5 text-sm focus:outline-hidden focus:ring-2 focus:ring-primary/20"
+                />
+                {isAdding && (
+                  <div className="absolute right-2.5 top-2.5">
+                    <Loader2 className="w-5 h-5 text-primary animate-spin" />
+                  </div>
+                )}
+              </div>
+              <button
+                disabled={isAdding || !newWord.trim()}
+                className="btn btn-primary flex items-center justify-center px-3 disabled:opacity-50 shrink-0"
+                title="Add word"
+              >
+                <Plus className="w-4 h-4" />
+              </button>
             </div>
             {error && <p className="text-[10px] text-red-500 font-medium">{error}</p>}
-            <button
-              disabled={isAdding || !newWord.trim()}
-              className="btn btn-primary flex items-center justify-center gap-2 disabled:opacity-50"
-            >
-              <Plus className="w-4 h-4" />
-              Save
-            </button>
+            <div className="rounded-lg border border-border bg-slate-50 p-3">
+              <div className="mb-2 flex items-center justify-between">
+                <span className="text-[11px] font-bold uppercase tracking-wide text-text-sub">Suggested new words</span>
+                <button
+                  type="button"
+                  onClick={() => void refreshExploreSuggestions()}
+                  className="text-[11px] font-semibold text-primary hover:underline disabled:opacity-50"
+                  disabled={loadingSuggestions || !!newWord.trim()}
+                  title={newWord.trim() ? "Clear input to refresh explore suggestions" : "Refresh suggestions"}
+                >
+                  {loadingSuggestions ? "Loading..." : "Refresh"}
+                </button>
+              </div>
+              {suggestedWords.length ? (
+                <div className="flex flex-wrap gap-2">
+                  {suggestedWords.map((word) => (
+                    <button
+                      key={word}
+                      type="button"
+                      onClick={() => setNewWord(word)}
+                      className="rounded-full border border-primary/20 bg-white px-2.5 py-1 text-xs font-semibold text-primary transition-colors hover:border-primary/40 hover:bg-primary/5"
+                    >
+                      {word}
+                    </button>
+                  ))}
+                </div>
+              ) : (
+                <p className="text-xs text-text-sub italic">
+                  {newWord.trim() ? "No matching suggestions." : "No suggestions available right now."}
+                </p>
+              )}
+            </div>
           </form>
         </section>
 
         {/* Export Card */}
-        <section className="card bg-slate-900 text-white border-none">
+        <section className="card md:col-span-2 bg-slate-900 text-white border-none">
           <span className="card-title text-slate-400">Export Data</span>
           <div className="text-sm mb-4 text-slate-300">Anki-ready format (JSON)</div>
           <button
