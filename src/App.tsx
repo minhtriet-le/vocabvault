@@ -252,10 +252,11 @@ export default function App() {
     setLoadingSuggestions(true);
     const pool = [...EXPLORE_PREFIXES].sort(() => Math.random() - 0.5).slice(0, 6);
 
-    const fetched = await Promise.all(pool.map((prefix) => getSuggestions(prefix, 6)));
+    const fetched = await Promise.all(pool.map((prefix) => getSuggestions(prefix, 20)));
     const unique: string[] = [];
     for (const list of fetched) {
-      for (const candidate of list) {
+      const shuffled = [...list].sort(() => Math.random() - 0.5);
+      for (const candidate of shuffled) {
         const lower = candidate.toLowerCase();
         if (savedWordSet.has(lower)) continue;
         if (!unique.includes(candidate)) unique.push(candidate);
