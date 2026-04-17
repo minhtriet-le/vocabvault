@@ -37,6 +37,16 @@ node -v
 npm -v
 ```
 
+> **Troubleshooting — PowerShell execution policy error**
+>
+> If you see `npm.ps1 cannot be loaded because running scripts is disabled on this system`, PowerShell is blocking script execution. Fix it by running this command **once** in PowerShell as Administrator:
+>
+> ```powershell
+> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+> ```
+>
+> Then close and reopen your terminal. Alternatively, use **Command Prompt** (`cmd`) instead of PowerShell — the error does not occur there.
+
 ### macOS
 
 Using [Homebrew](https://brew.sh) (recommended):
