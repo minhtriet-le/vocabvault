@@ -17,11 +17,63 @@ The app uses a local English-Vietnamese dictionary from `dict.json`, an Express 
 
 ## Requirements
 
-- Node.js 18 or later
-- npm
+- Node.js 18 or later (includes npm)
 - Google Chrome or another browser that supports Manifest V3 extensions
 
 No API key is required.
+
+## Installing Node.js and npm
+
+If you don't have Node.js or npm installed, follow the instructions for your operating system.
+
+### Windows
+
+1. Go to [https://nodejs.org](https://nodejs.org) and download the **LTS** installer (`.msi`).
+2. Run the installer and follow the prompts. npm is included automatically.
+3. Verify the installation:
+
+```cmd
+node -v
+npm -v
+```
+
+### macOS
+
+Using [Homebrew](https://brew.sh) (recommended):
+
+```bash
+brew install node
+```
+
+Or download the macOS installer (`.pkg`) from [https://nodejs.org](https://nodejs.org).
+
+Verify:
+
+```bash
+node -v
+npm -v
+```
+
+### Linux (Debian/Ubuntu)
+
+```bash
+sudo apt update
+sudo apt install -y nodejs npm
+```
+
+For the latest version, use [NodeSource](https://github.com/nodesource/distributions):
+
+```bash
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt install -y nodejs
+```
+
+Verify:
+
+```bash
+node -v
+npm -v
+```
 
 ## Local Setup
 
