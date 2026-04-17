@@ -113,47 +113,6 @@ Visit:
 http://localhost:3000
 ```
 
-## Running in the Background (Keep running after closing the terminal)
-
-Use [PM2](https://pm2.keymetrics.io/) to run the app as a background process.
-
-### Install PM2
-
-```bash
-npm install -g pm2
-```
-
-### Start the app in the background
-
-```bash
-pm2 start ecosystem.config.cjs
-```
-
-The app will keep running even after you close the terminal.
-
-### Useful PM2 commands
-
-```bash
-pm2 list                  # view running processes
-pm2 stop vocabvault       # stop the app
-pm2 restart vocabvault    # restart the app
-pm2 logs vocabvault       # view live logs
-pm2 delete vocabvault     # remove the process
-```
-
-### Auto-start on system reboot
-
-Run these commands once after the first start:
-
-```bash
-pm2 save
-pm2 startup
-```
-
-Follow any instruction printed by `pm2 startup` (it may ask you to run a command with administrator/sudo privileges).
-
-> **Note for Windows users:** `pm2 startup` is not fully supported on Windows. As an alternative, you can add a shortcut to `pm2 resurrect` in the Windows Startup folder, or use Task Scheduler to run `pm2 resurrect` at login.
-
 ## API Endpoints
 
 The backend exposes these routes:
@@ -267,14 +226,8 @@ During import:
 ### The extension cannot connect to the server
 
 Check that:
-
-
-If you are using PM2, verify the process is online:
-
-```bash
-pm2 list
-pm2 logs vocabvault
-```
+- `npm run dev` is still running in the terminal
+- the server is reachable at `http://localhost:3000`
 
 ### Word lookup returns no result
 
@@ -308,10 +261,3 @@ npm run lint
 4. Load the `extension/` folder in Chrome
 5. Highlight words on webpages to test the save flow
 6. Verify saved data in the dashboard and `words.json`
-
-To keep the app running in the background instead of step 2:
-
-```bash
-npm install -g pm2
-pm2 start ecosystem.config.cjs
-```
