@@ -1,5 +1,1345 @@
 [
   {
+    "id": "1776406850863",
+    "word": "by",
+    "lang": "en",
+    "definition": "(danh từ) 1. gần, cạnh, kế, bên; 2. về phía; 3. qua, ngang qua, xuyên qua, dọc theo (chỉ hướng và chuyển động); 4. vào lúc, vào khi, vào khoảng, vào quãng (chỉ thời gian); 5. theo cách, bằng cách, theo từng; 6. bằng, bởi, do; 7. theo như, phù hợp với; 8. đến mức, đến khoảng; 9. trước; 10. à này, nhân đây, tiện thể; 11. một mình không có ai giúp đỡ; 12. có vật gì trong tay | (phó từ) 1. gần; 2. qua; 3. sang một bên, ở bên; dự trữ, dành; 4. lát nữa thôi; ngay bây giờ; 5. nhìn chung, nói chung, rút cục | (tính từ) 1. (như) bye",
+    "ipa": "/bai/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:50.863Z"
+  },
+  {
+    "id": "1776406845437",
+    "word": "warfare",
+    "lang": "en",
+    "definition": "(danh từ) 1. (quân sự) chiến tranh",
+    "ipa": "/'wɔ:feə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:45.437Z"
+  },
+  {
+    "id": "1776406843117",
+    "word": "ingrain",
+    "lang": "en",
+    "definition": "(tính từ) 1. nhuộm ngay từ sợi; 2. ăn sâu, thâm căn cố đế",
+    "ipa": "/'in'grein/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:20:43.117Z"
+  },
+  {
+    "id": "1776406838725",
+    "word": "ingrained",
+    "lang": "en",
+    "definition": "(tính từ) 1. ăn sâu, thâm căn cố đế",
+    "ipa": "/'in'greind/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:20:38.725Z"
+  },
+  {
+    "id": "1776406833405",
+    "word": "fight",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự đấu tranh, sự chiến đấu; trận đánh, cuộc chiến đấu; 2. (nghĩa bóng) sự mâu thuẫn, sự lục đục; 3. khả năng chiến đấu; tính hiếu chiến, máu hăng; 4. kháng cự lại, chống cự lại | (nội động từ fought) 1. đấu tranh, chiến đấu, đánh nhau | (ngoại động từ) 1. đấu tranh, chiến đấu, đánh, tiến hành đấu tranh trong (vụ kiện, vụ tranh chấp...); tranh luận (một vấn đề gì); 2. điều kiện (quân, tàu) trong trận đánh; 3. cho (gà...) chọi nhau; cho (võ sĩ...) giao đấu; 4. đánh bại, đè bẹp; 5. đấu tranh đến cùng; làm cho ra lý lẽ; 6. đánh lui; 7. đấu tranh để giải quyết một vấn đề gì; 8. tránh xa ai; 9. đấu tranh để vươn lên trong cuộc sống",
+    "ipa": "/fait/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:33.405Z"
+  },
+  {
+    "id": "1776406830238",
+    "word": "digital",
+    "lang": "en",
+    "definition": "(tính từ) 1. (thuộc) ngón chân, (thuộc) ngón tay; 2. (thuộc) con số (từ 0 đến 9) | (danh từ) 1. phím (pianô)",
+    "ipa": "/'didʤitl/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:20:30.238Z"
+  },
+  {
+    "id": "1776406828093",
+    "word": "how",
+    "lang": "en",
+    "definition": "(phó từ) 1. thế nào, như thế nào; sao, ra sao, làm sao; 2. bao nhiêu; giá bao nhiêu; 3. làm sao, biết bao, xiếc bao, biết bao nhiêu, sao mà... đến thế; 4. rằng, là; 5. như, theo cái cách; 6. (từ Mỹ,nghĩa Mỹ),  (từ lóng), ((thường)(mỉa mai)) sao, mà có hơn thế nhiều nữa chứ!; 7. (xem) here; 8. anh có khoẻ không (câu hỏi thăm khi gặp nhau); 9. quái quỷ thế nào mà..., làm thế quái nào mà...; 10. sao mà lạ thế?, sao mà lại kỳ quái thế?; 11. (từ lóng) cái quái gì?, cái đếch gì? | (danh từ) 1. cách làm, phương pháp làm",
+    "ipa": "/hau/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:20:28.093Z"
+  },
+  {
+    "id": "1776406824758",
+    "word": "show",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự bày tỏ; 2. sự trưng bày; cuộc triển lãm; 3. sự phô trương, sự khoe khoang; 4. (thông tục) cuộc biểu diễn; 5. bề ngoài, hình thức, sự giả đò, sự giả bộ; 6. (từ lóng) cơ hội, dịp; 7. (y học) nước đầu ối; 8. (từ lóng) việc, công việc kinh doanh, việc làm ăn; 9. (quân sự),  (từ lóng) trận đánh, chiến dịch; 10. khá lắm!, hay lắm! | (ngoại động từ showed; showed) 1. cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra; 2. tỏ ra, tỏ rõ; 3. chỉ, bảo, dạy; 4. dẫn, dắt | (nội động từ) 1. hiện ra, xuất hiện, trông rõ, ra trước công chúng,  (thông tục) ló mặt, lòi ra; 2. đưa vào, dẫn vào; 3. khoe khoang, phô trương (của cải, tài năng); 4. đưa ra, dẫn ra; 5. để lộ ra, lộ mặt nạ (ai); 6. (thông tục) xuất hiện, ló mặt ra, xuất đầu lộ diện; có mặt; 7. (từ Mỹ,nghĩa Mỹ),  (thông tục) vượt xa, hơn nhiều; 8. (xem) heel; 9. (xem) hoof; 10. để lộ bản chất của mình; để lộ đảng phái của mình; 11. (xem) fight; 12. để lộ ý đồ của mình; 13. (xem) leg; 14. (xem) feather",
+    "ipa": "/ʃou/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:24.758Z"
+  },
+  {
+    "id": "1776406820373",
+    "word": "conflict",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự xung đột, sự tranh giành, sự va chạm; 2. cuộc xung đột; 3. sự đối lập, sự mâu thuẫn | (nội động từ) 1. xung đột, va chạm; 2. đối lập, chống lại, mâu thuẫn, trái với",
+    "ipa": "/'kɔnflikt/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:20.373Z"
+  },
+  {
+    "id": "1776406812934",
+    "word": "hidden",
+    "lang": "en",
+    "definition": "(danh từ) 1. da sống (chưa thuộc, mới chỉ cạo và rửa); 2. (đùa cợt) da người; 3. không có bất cứ một dấu vết gì; 4. để cứu lấy tính mạng mình; cầu an bảo mạng | (ngoại động từ) 1. lột da; 2. (thông tục) đánh đòn | (danh từ) 1. (sử học) Haiddơ (đơn vị đo ruộng đất từ 60 đến 120 mẫu Anh tuỳ theo từng địa phương ở Anh); 2. nơi nấp để rình thú rừng | (nội động từ hidden) 1. trốn, ẩn nấp, náu | (ngoại động từ) 1. che giấu, che đậy, giấu giếm; giữ kín (một điều gì); 2. che khuất; 3. giấu mặt đi vì xấu hổ, xấu hổ vì không dám ló mặt ra; 4. (xem) bushel",
+    "ipa": "/haid/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:12.934Z"
+  },
+  {
+    "id": "1776406810709",
+    "word": "hospital",
+    "lang": "en",
+    "definition": "(danh từ) 1. bệnh viện, nhà thương; 2. tổ chức từ thiện, tổ chức cứu tế (chỉ dùng với danh từ riêng); 3. trường Crai-xơ Hốt-xpi-tơn (tên một trường ở Luân-ddôn); 4. (sử học) nhà tế bần",
+    "ipa": "/'hɔspitl/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:20:10.709Z"
+  },
+  {
+    "id": "1776406796225",
+    "word": "hack",
+    "lang": "en",
+    "definition": "(danh từ) 1. búa, rìu; cuốc chim (của công nhân mỏ); 2. vết toác; vết thương do bị đá vào ống chân (đá bóng) | (ngoại động từ) 1. đốn, đẽo, chém, chặt mạnh; 2. (thể dục,thể thao) đá vào ống chân (ai) | (nội động từ) 1. chém, chặt mạnh; 2. ho khan | (danh từ) 1. ngựa cho thuê; 2. ngựa ốm, ngựa tồi; 3. ngựa thường (để cưỡi; không phải ngựa thi); 4. người làm thuê những công việc nặng nhọc; người viết văn thuê; 5. (từ Mỹ,nghĩa Mỹ) xe ngựa cho thuê; 6. (định ngữ) làm thuê, làm mướn | (ngoại động từ) 1. làm thành nhàm; 2. thuê (ngựa); 3. cưỡi (ngựa) | (nội động từ) 1. cưỡi ngựa (đi thong dong); 2. dùng ngựa thuê; 3. (từ Mỹ,nghĩa Mỹ) đánh xe ngựa thuê | (danh từ) 1. máng đựng thịt (cho chim ó, diều hâu); 2. giá phơi gạch",
+    "ipa": "/hæk/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:19:56.225Z"
+  },
+  {
+    "id": "1776406286757",
+    "word": "from",
+    "lang": "en",
+    "definition": "(giới từ) 1. từ; 2. dựa vào, theo, do từ, xuất phát từ; 3. khỏi, đừng; tách khỏi, rời xa, cách; 4. vì, do, do bởi; 5. với; 6. bằng; 7. của (ai... cho, gửi, tặng, đưa); 8. ngày xưa, ngày trước, thuở xưa, lâu rồi",
+    "ipa": "/frɔm, frəm/",
+    "example": "",
+    "pos": "giới từ",
+    "savedAt": "2026-04-17T06:11:26.757Z"
+  },
+  {
+    "id": "1776406284755",
+    "word": "accusation",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự kết tội, sự buộc tội; sự bị kết tội; 2. sự tố cáo; 3. cáo trạng",
+    "ipa": "/,ækju:'zeiʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:11:24.755Z"
+  },
+  {
+    "id": "1776406278109",
+    "word": "spur",
+    "lang": "en",
+    "definition": "(danh từ) 1. đinh thúc ngựa; 2. cựa (gà); 3. cựa sắt (móc và cựa gà khi chọi); 4. (thực vật học) cựa (ở cánh hoa...); 5. mũi núi; 6. tường cựa gà (chạy ngang bức thành); 7. sự kích thích, sự khuyến khích, sự khích lệ; 8. uể oải, cần được lên dây cót; 9. (sử học) được tặng danh hiệu hiệp sĩ; 10. (từ lóng) nổi tiếng | (ngoại động từ) 1. thúc (ngựa); 2. lắp đinh (vào giày); 3. lắp cựa sắt (vào cựa gà); 4. khích lệ, khuyến khích | (nội động từ) 1. thúc ngựa; 2. ((thường) + on,  forward) phi nhanh, chạy nhanh; vội vã; 3. làm phiền một cách không cần thiết",
+    "ipa": "/spə:/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:11:18.109Z"
+  },
+  {
+    "id": "1776406273903",
+    "word": "violate",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. vi phạm, xâm phạm, phạm; làm trái (lương tâm...); lỗi (thề...); 2. hãm hiếp; 3. phá rối, làm mất (giấc ngủ, sự yên tĩnh...); 4. (tôn giáo) xúc phạm",
+    "ipa": "/'vaiəleit/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T06:11:13.903Z"
+  },
+  {
+    "id": "1776406266308",
+    "word": "over",
+    "lang": "en",
+    "definition": "(danh từ) 1. trên; ở trên; 2. trên khắp, ở khắp; 3. hơn, trên; 4. hơn, nhiều hơn; 5. qua, sang, đến tận; 6. (từ lóng) mê ai, phải lòng ai, say ai; 7. từ bên này đến bên kia, bao quát; 8. khó quá chúng tôi không hiểu được; 9. vượt qua đầu chúng tôi, không hỏi ý kiến chúng tôi; 10. yêu say đắm; 11. (xem) boot; 12. nhảy lên (hào giao thông) để công kích; 13. đi ngủ mà còn suy nghĩ đến công việc; 14. nói chuyện trong khi uống trà | (phó từ) 1. nghiêng, ngửa; 2. qua, sang; 3. khắp, khắp chỗ, khắp nơi; 4. ngược; 5. lần nữa, lại; 6. quá, hơn; 7. từ đầu đến cuối, kỹ lưỡng, cẩn thận; 8. qua, xong, hết; 9. (xem) all; 10. lại nữa; 11. đối lập với; 12. (xem) above; 13. nhiều lần lặp đi lặp lại | (danh từ) 1. cái thêm vào, cái vượt quá; 2. (từ Mỹ,nghĩa Mỹ),  (quân sự) phát đạn nổ quá mục tiêu | (tính từ) 1. cao hơn; 2. ở ngoài hơn; 3. nhiều hơn, quá; 4. qua, xong hết",
+    "ipa": "/'ouvə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:11:06.308Z"
+  },
+  {
+    "id": "1776406262444",
+    "word": "week",
+    "lang": "en",
+    "definition": "(danh từ) 1. tuần lễ, tuần; 2. những ngày làm việc trong tuần; 3. by tuần, bốn mưi chín ngày; 4. (thông tục) thời gian dài; 5. tuần này tiếp đến tuần khác",
+    "ipa": "/wi:k/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:11:02.444Z"
+  },
+  {
+    "id": "1776406253986",
+    "word": "probably",
+    "lang": "en",
+    "definition": "(phó từ) 1. hầu như chắc chắn",
+    "ipa": "",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:10:53.986Z"
+  },
+  {
+    "id": "1776406251923",
+    "word": "maybe",
+    "lang": "en",
+    "definition": "(phó từ) 1. có thể, có lẽ",
+    "ipa": "/'meibi:/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:10:51.923Z"
+  },
+  {
+    "id": "1776406249187",
+    "word": "on",
+    "lang": "en",
+    "definition": "(danh từ) 1. trên, ở trên; 2. dựa trên, dựa vào; 3. vào, lúc khi; 4. vào, về phía, bên; 5. với; 6. chống lại; 7. bằng, nhờ vào; 8. về, nói về, bàn về; 9. đang; 10. thuộc, của; 11. có việc, có công tác; 12. (xem) instant; 13. (xem) purpose; 14. (xem) sly; 15. (xem) go; 16. mang cái gì trong người; 17. có điều gì đang phàn nàn về ai; 18. hơn ai về cái gì | (phó từ) 1. tiếp, tiếp tục, tiếp diễn, tiến lên; 2. đang, đang có, đang hoạt động; 3. vào; 4. sắp năm mươi tuổi; 5. (thông tục) ủng hộ, sẵn sàng tham gia, đồng ý; 6. biết được ý định của ai; 7. quấy rầy ai; móc máy ai; 8. (từ lóng) ngà ngà say; 9. từ ngày đó về sau; 10. lúc lúc, chốc chốc, chập chờn; 11. liên tục, liên miên | (tính từ) 1. (thể dục,thể thao) về bên trái (crickê) | (danh từ) 1. (thể dục,thể thao) phía trái (crickê)",
+    "ipa": "/ɔn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:49.187Z"
+  },
+  {
+    "id": "1776406245732",
+    "word": "thursday",
+    "lang": "en",
+    "definition": "(danh từ) 1. ngày thứ năm (trong tuần lễ)",
+    "ipa": "/'θə:zdi/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:45.732Z"
+  },
+  {
+    "id": "1776406243596",
+    "word": "afternoon",
+    "lang": "en",
+    "definition": "(danh từ) 1. buổi chiều",
+    "ipa": "/'ɑ:ftə'nu:n/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:43.596Z"
+  },
+  {
+    "id": "1776406239580",
+    "word": "while",
+    "lang": "en",
+    "definition": "(danh từ) 1. lúc, chốc, lát; 2. bõ công, đáng làm | (ngoại động từ) 1. to while away l ng phí, làm mất, để trôi qua; giết (thì giờ) | (liên từ  whilst)) 1. trong lúc, trong khi, đang khi, đang lúc; 2. chừng nào còn, còn; 3. còn, trong khi mà, mà",
+    "ipa": "/wail/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:39.580Z"
+  },
+  {
+    "id": "1776406236628",
+    "word": "ideally",
+    "lang": "en",
+    "definition": "(phó từ) 1. lý tưởng, đúng như lý tưởng; 2. theo lý tưởng; trong lý tưởng",
+    "ipa": "/ai'diəli/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T06:10:36.629Z"
+  },
+  {
+    "id": "1776406234667",
+    "word": "reach",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự chìa ra, sự trải ra; 2. sự với (tay); tầm với; 3. (thể dục,thể thao) tầm duỗi tay (để đấm đối phương...); 4. (nghĩa bóng) tầm hiểu biết, trình độ, khả năng; phạm vi hoạt động; 5. khoảng rộng, dài rộng (đất...); 6. khúc sông (trông thấy được giữa hai chỗ ngoặt); 7. (hàng hải) đường chạy vát (của thuyền) | (ngoại động từ) 1. (+ out) chìa ra, đưa (tay) ra; 2. với tay, với lấy; 3. đến, tới, đi đến; 4. có thể thấu tới, có thể ảnh hưởng đến | (nội động từ) 1. trải ra tới, chạy dài tới; 2. với tay, với lấy; 3. đến, tới",
+    "ipa": "/ri:tʃ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:34.667Z"
+  },
+  {
+    "id": "1776406229755",
+    "word": "be",
+    "lang": "en",
+    "definition": "(nội động từ & trợ động từ (số ít was) 1. thì, là; 2. có, tồn tại, ở, sống; 3. trở nên, trở thành; 4. xảy ra, diễn ra; 5. giá; 6. be to phải, định, sẽ; 7. (+ động tính từ hiện tại) đang; 8. (+ động tính từ quá khứ) bị, được; 9. đã đi, đã đến; 10. chống lại; 11. tán thành, đứng về phía",
+    "ipa": "/bi:/",
+    "example": "",
+    "pos": "nội động từ & trợ động từ (số ít was",
+    "savedAt": "2026-04-17T06:10:29.755Z"
+  },
+  {
+    "id": "1776406227499",
+    "word": "willing",
+    "lang": "en",
+    "definition": "(tính từ) 1. bằng lòng, vui lòng; muốn; 2. sẵn sàng, quyết tâm; 3. có thiện ý, hay giúp đỡ, sẵn lòng; 4. tự nguyện",
+    "ipa": "/'wili /",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:10:27.499Z"
+  },
+  {
+    "id": "1776406224012",
+    "word": "extend",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. duỗi thẳng (tay, chân...); đưa ra, giơ ra; 2. kéo dài (thời hạn...), gia hạn, mở rộng; 3. (quân sự) dàn rộng ra (quân đội); 4. (thể dục,thể thao),  (từ lóng) làm việc dốc hết; 5. dành cho (sự đón tiếp...); gửi tới (lời chúc...); 6. (pháp lý) đánh giá (tài sản) (để tịch thu); tịch thu (tài sản, vì nợ); 7. chép (bản tốc ký...) ra chữ thường | (nội động từ) 1. chạy dài, kéo dài (đến tận nơi nào...); mở rộng; 2. (quân sự) dàn rộng ra (quân đội)",
+    "ipa": "/iks'tend/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T06:10:24.012Z"
+  },
+  {
+    "id": "1776406219259",
+    "word": "excellent",
+    "lang": "en",
+    "definition": "(tính từ) 1. hơn hẳn, trội hơn; rất tốt, thượng hạng, xuất sắc, ưu tú",
+    "ipa": "/'eksələnt/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:10:19.259Z"
+  },
+  {
+    "id": "1776406216273",
+    "word": "conversation",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự nói chuyện; cuộc nói chuyện, cuộc chuyện trò, cuộc đàm luận; 2. (pháp lý) sự giao cấu; sự giao hợp",
+    "ipa": "/,kɔnvə'seiʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:16.273Z"
+  },
+  {
+    "id": "1776406208420",
+    "word": "agreement",
+    "lang": "en",
+    "definition": "(danh từ) 1. hiệp định, hiệp nghị; 2. hợp đồng, giao kèo; 3. sự bằng lòng, sự tán thành, sự đồng ý, sự thoả thuận; 4. sự phù hợp, sự hoà hợp; 5. (ngôn ngữ học) sự hợp (cách, giống, số...); 6. ký kết một hợp đồng với ai; 7. (từ Mỹ,nghĩa Mỹ) bản hiệp định ký kết giữa tổng thống (Mỹ) với chính phủ một nước khác không cần thông qua thượng nghị viện; 8. thoả thuận với; ký kết một hợp đồng với",
+    "ipa": "/ə'gri:mənt/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:08.420Z"
+  },
+  {
+    "id": "1776406206188",
+    "word": "struck",
+    "lang": "en",
+    "definition": "(ngoại động từ struck; struck) 1. đánh, đập; 2. đánh, điểm; 3. đúc; 4. giật (cá, khi câu); 5. dò đúng, đào đúng (mạch dầu, mạch mỏ...); 6. đánh, tấn công; 7. đập vào; 8. làm cho phải chú ý, gây ấn tượng; 9. thình lình làm cho; gây (sợ hãi, kinh ngạc...) thình lình; 10. đâm vào, đưa vào; đi vào, tới, đến; 11. gạt (thùng khi đong thóc...); 12. xoá, bỏ, gạch đi; 13. hạ (cờ, buồm); 14. bãi, đình (công); 15. tính lấy (số trung bình); 16. làm thăng bằng (cái cân); 17. lấy (điệu bộ...); 18. (sân khấu) dỡ và thu dọn (phông); tắt (đèn); 19. dỡ (lều) | (nội động từ) 1. đánh, nhằm đánh; 2. gõ, đánh, điểm; 3. bật cháy, chiếu sáng; 4. đớp mồi, cắn câu (cá); 5. đâm rễ (cây); 6. tấn công; 7. thấm qua; 8. đi về phía, hướng về; 9. hạ cờ; hạ cờ đầu hàng, đầu hàng; 10. bãi công, đình công; 11. nhằm vào, đánh vào; 12. đánh trả lại; 13. đi trở lại; 14. đánh ngã (đen & bóng); 15. chặt đứt, xoá bỏ; bớt đi; 16. xoá bỏ, gạch bỏ; 17. (+ at) đấm (ai); vung (tay chân khi bơi); 18. lao vụt đi (người bơi...); 19. nghĩ ra, đề ra (kế hoạch...); 20. xuyên qua, thấm qua; 21. (xem) dumb; 22. (xem) home; 23. đào đúng mạch dầu; 24. làm ăn phát đạt; 25. làm quen (với ai); 26. cất tiếng hát, bắt đầu cử một bản nhạc; 27. nảy ra một ý kiến; 28. dò đúng mạch mỏ... có trữ lượng cao; 29. phất; 30. xen vào câu chuyện bằng một lời gợi ý; 31. (xem) iron | (danh từ) 1. cuộc đình công, cuộc bãi công; 2. mẻ đúc; 3. sự đột nhiên dò đúng (mạch mỏ); 4. sự phất; 5. sự xuất kích; 6. que gạt (dấu, thùng đong thóc)",
+    "ipa": "/straik/",
+    "example": "",
+    "pos": "ngoại động từ struck; struck",
+    "savedAt": "2026-04-17T06:10:06.188Z"
+  },
+  {
+    "id": "1776406203293",
+    "word": "leader",
+    "lang": "en",
+    "definition": "(danh từ) 1. lânh tụ, người lânh đạo, người chỉ huy, người hướng dẫn, người chỉ đạo; 2. luật sư chính (trong một vụ kiện); 3. bài báo chính, bài xã luận lớn; 4. con ngựa đầu đàn, con ngựa dẫn đầu trong cỗ ngựa (buộc vào xe); 5. (ngành in) hàng dấu chấm (để dẫn người đọc) sang trang (sang cột); 6. (ngành mỏ) mạch nhánh (dẫn đến mạch mỏ chính); 7. mầm chính (nhú lên mạnh nhất ở cành, ở thân cây); 8. (giải phẫu) dây gân; 9. (raddiô) tin quan trọng nhất (trong bản tin cuối cùng); 10. (điện học) vật dẫn; dây dẫn; 11. (âm nhạc) nhạc trưởng; người điều khiển dàn nhạc, người điều khiển ban đồng ca; người lãnh xướng; 12. (thương nghiệp) hàng bán rẻ để quảng cáo",
+    "ipa": "/'li:də/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:10:03.293Z"
+  },
+  {
+    "id": "1776406199644",
+    "word": "two",
+    "lang": "en",
+    "definition": "(tính từ) 1. hai, đôi | (danh từ) 1. số hai; 2. đôi, cặp; 3. quân hai (quân bài); con hai (súc sắc...); 4. trong nháy mắt, chỉ trong một loáng; 5. (xem) put",
+    "ipa": "/tu:/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:09:59.644Z"
+  },
+  {
+    "id": "1776406197556",
+    "word": "their",
+    "lang": "en",
+    "definition": "(tính từ sở hữu) 1. của chúng, của chúng nó, của họ",
+    "ipa": "/ðeə/",
+    "example": "",
+    "pos": "tính từ sở hữu",
+    "savedAt": "2026-04-17T06:09:57.556Z"
+  },
+  {
+    "id": "1776406194474",
+    "word": "between",
+    "lang": "en",
+    "definition": "(giới từ) 1. giữa, ở giữa; 2. trong khoảng; 3. nửa... nửa; vừa... vừa; 4. lâm vào hoàn cảnh bế tắc không có lối thoát; tiến lên mắc núi, lùi lại mắc sông; 5. (xem) cup; 6. ở đầu sóng ngọn gió | (phó từ) 1. ở giữa; 2. ở cách xa nhau, thưa thớt",
+    "ipa": "/bi'twi:n/",
+    "example": "",
+    "pos": "giới từ",
+    "savedAt": "2026-04-17T06:09:54.474Z"
+  },
+  {
+    "id": "1776406189069",
+    "word": "order",
+    "lang": "en",
+    "definition": "(danh từ) 1. thứ, bậc, ngôi, hàng, cấp, loại, giai cấp; 2. (toán học) bậc; 3. thứ tự; 4. trật tự, nội quy, thủ tục (ở nghị viện, ở hội trường...); 5. sai nội qui rồi, không đúng thủ tục rồi!; 6. sự ngăn nắp, sự gọn gàng; 7. chế độ; 8. mệnh lệnh; 9. huân chương; 10. huân chương lao động hạng nhất; 11. huân chương Lê-nin; 12. sự đặt hàng; đơn đặt hàng; 13. phiếu; 14. (thực vật học) bộ (đơn vị phân loại); 15. (tôn giáo) phẩm chức; 16. (tôn giáo) dòng tu; 17. (kiến trúc) kiểu; 18. (quân sự) (the order) tư thế bỏ súng xuống để áp vào đùi; 19. (từ cổ,nghĩa cổ) biện pháp; 20. xấu, hỏng (máy); 21. trật tự, ngăn nắp; 22. tốt, chạy tốt; 23. đúng nội quy, đúng thủ tục; 24. xấu, hỏng (máy); 25. không đúng nội quy, không đúng thủ tục; 26. cốt để, mục đích để; 27. để mà, cốt để mà; 28. (xem) short; 29. (thông tục) một việc khó; 30. làm theo đơn, làm theo yêu cầu (của khách hàng); 31. (quân sự) trang phục hành quân; 32. chương trình làm việc; nhật lệnh; (nghĩa bóng) hiện tình; 33. (quân sự) trang phục duyệt binh; 34. ngừng cuộc thảo luận để nghiên cứu về một điểm thủ tục | (ngoại động từ) 1. ra lệnh; 2. chỉ dẫn; cho, cho dùng (thuốc...); 3. gọi (món ăn, thức uống...), bảo người hầu đưa (thức ăn...); đặt (hàng...); 4. định đoạt (số mệnh...); 5. (từ cổ,nghĩa cổ) thu xếp, sắp đặt; 6. (quân sự) bỏ súng xuống áp vào đùi!; 7. sai ai chạy như cờ lông công",
+    "ipa": "/'ɔ:də/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:49.069Z"
+  },
+  {
+    "id": "1776406185595",
+    "word": "lasting",
+    "lang": "en",
+    "definition": "(danh từ) 1. vải latinh (một loại vải bán) | (tính từ) 1. bền vững, lâu dài, trường cửu; 2. chịu lâu, để được lâu, giữ được lâu",
+    "ipa": "/'lɑ:stiɳ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:45.595Z"
+  },
+  {
+    "id": "1776406182715",
+    "word": "achieve",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. đạt được, giành được; 2. hoàn thành, thực hiện",
+    "ipa": "/ə'tʃi:v/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T06:09:42.715Z"
+  },
+  {
+    "id": "1776406177053",
+    "word": "will",
+    "lang": "en",
+    "definition": "(danh từ) 1. ý chí, chí, ý định, lòng; 2. sự hăng say; sự quyết chí, sự quyết tâm; 3. nguyện vọng, ý muốn; ý thích; 4. (pháp lý) tờ di chúc, chúc thư | (ngoại động từ willed) 1. tỏ ý chí; có quyết chí; 2. định; 3. buộc, bắt buộc; 4. (pháp lý) để lại bằng chức thư | (động từ would) 1. muốn; 2. thuận, bằng lòng; 3. thường vẫn; 4. nếu, giá mà, ước rằng; 5. phi, tất nhiên; ắt là, hẳn là, chắc là; 6. nhất định sẽ; 7. sẽ (tưng lai); 8. có thể",
+    "ipa": "/wil/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:37.053Z"
+  },
+  {
+    "id": "1776406174405",
+    "word": "work",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự làm việc; việc, công việc, công tác; 2. việc làm; nghề nghiệp; 3. đồ làm ra, sản phẩm; 4. tác phẩm; 5. công trình xây dựng, công việc xây dựng; 6. dụng cụ, đồ dùng, vật liệu; 7. kiểu trang trí, cách trang trí (đồ thêu, may, đan, đồ da...); 8. (kỹ thuật) máy, cơ cấu; 9. (số nhiều) xưởng, nhà máy; 10. lao động, nhân công; 11. (quân sự) pháo đài, công sự; 12. (số nhiều) (hàng hải) phần tàu; 13. (vật lý) công; 14. (địa lý,địa chất) tác dụng; 15. (nghĩa bóng) việc làm, hành động; 16. (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh đòn ai; 17. khử ai, giết ai; 18. đi đến cùng; 19. dốc hết sức; dốc hết túi; 20. thử, thử xem | (nội động từ worked) 1. làm việc; 2. hành động, hoạt động, làm; 3. gia công, chế biến; 4. lên men; 5. tác động, có ảnh hưởng tới; 6. đi qua, chuyển động; dần dần tự chuyển (lên, xuống); tự làm cho (lỏng, chặt...); 7. chạy; 8. tiến hành, tiến triển; có kết quả, có hiệu lực; 9. (hàng hải) lách (tàu); 10. nhăn nhó, cau lại (mặt); day dứt (ý nghĩ, lương tâm) | (ngoại động từ) 1. bắt làm việc; 2. làm lên men (bia...); 3. thêu; 4. làm cho (máy) chạy, chuyển vận; 5. làm, gây ra, thi hành, thực hiện; 6. khai thác (mỏ); trổng trọt (đất đai); 7. giải (một bài toán); chữa (bệnh); 8. nhào, nặn (bột, đất sét); rèn (sắt...); tạc (tượng); vẽ (một bức tranh); chạm (gỗ); trau (vàng, bạc); 9. đưa dần vào, chuyển; đưa, dẫn ((nghĩa đen) & (nghĩa bóng)); 10. (thông tục) sắp đặt, bày ra, bày mưu; 11. tiếp tục làm việc, tiếp tục hoạt động; 12. xuống, rơi xuống, tụt xuống; đưa xuống, hạ xuống; 13. đưa vào, để vào, đút vào; 14. biến mất, tiêu tan; 15. gạt bỏ; thanh toán hết; khắc phục; bán tháo; 16. tiếp tục làm việc; 17. (thông tục) chọc tức (ai); 18. tiếp tục làm tác động tới; 19. đến đâu, tới đâu, ra sao; kết thúc; 20. thi hành, thực hiện, tiến hành (một công việc); 21. trình bày, phát triển (một ý kiến); 22. vạch ra tỉ mỉ (một kế hoạch); 23. tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ); 24. lập thành, lập (giá cả); 25. quay, vòng, rẽ, quành; 26. lên dần, tiến triển, tiến dần lên; 27. gia công; 28. gây nên, gieo rắc (sự rối loạn); 29. chọc tức (ai); 30. soạn, chuẩn bị kỹ lưỡng (bài diễn văn); 31. trộn thành một khối; 32. nghiên cứu để nắm được (vấn đề); 33. mô tả tỉ mỉ; 34. nổi nóng, nổi giận; 35. đạt tới (cái gì) bắng sức lao động của mình; 36. (từ lóng) đạt được mục đích; 37. (thông tục) điều đó không hợp với tôi",
+    "ipa": "/wə:k/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:34.405Z"
+  },
+  {
+    "id": "1776406170811",
+    "word": "chairman",
+    "lang": "en",
+    "definition": "(danh từ) 1. chủ tịch; người chủ toạ (buổi họp); 2. người cho thuê ghế lăn; người đẩy ghế lăn; 3. (từ cổ,nghĩa cổ) người khiêng kiệu",
+    "ipa": "/'tʃeəmən/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:30.811Z"
+  },
+  {
+    "id": "1776406167779",
+    "word": "chief",
+    "lang": "en",
+    "definition": "(danh từ) 1. thủ lĩnh, lãnh tụ; 2. người đứng đầu; trưởng; 3. (thông tục) ông sếp, ông chủ; 4. nhất là, đặc biệt là | (tính từ) 1. đứng đầu, trưởng; 2. trọng yếu, chủ yếu, chính; 3. thủ phủ",
+    "ipa": "/tʃi:f/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:27.779Z"
+  },
+  {
+    "id": "1776406163100",
+    "word": "joint",
+    "lang": "en",
+    "definition": "(danh từ) 1. chỗ nối, mối nối, đầu nối; 2. (giải phẫu) khớp (xương); 3. (thực vật học) mấu, đốt; 4. (địa lý,ddịa chất) khe nứt, thớ nứt (ở khối đá...); 5. súc thịt (pha ra); 6. (kỹ thuật) mối hàn, mối nối, mối ghép; khớp nối, bản lề; 7. (từ Mỹ,nghĩa Mỹ),  (từ lóng) ổ lưu manh, ổ gái điếm lén lút, tiệm lén hút; hắc điếm; 8. (xem) nose | (tính từ) 1. chung (giữa hai hay nhiều người) | (ngoại động từ) 1. nối lại bằng đoạn nối, ghép lại bằng đoạn nối; 2. cắt tại những đoạn nối; chia ra từng đoạn; 3. trát vữa vào khe nối của (tường...); 4. bào cạnh (tấm ván) để ghép",
+    "ipa": "/dʤɔint/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:23.100Z"
+  },
+  {
+    "id": "1776406160308",
+    "word": "state",
+    "lang": "en",
+    "definition": "(đại từ) 1. trạng thái, tình trạng; 2. địa vị xã hội; 3. (thông tục) sự lo lắng; 4. quốc gia, bang; 5. nhà nước, chính quyền; 6. sự phô trương sang trọng, sự trang trọng, sự trọng thể, sự huy hoàng; 7. tập (trong sách chuyên đề); 8. (từ cổ,nghĩa cổ) ngai, bệ; 9. quàn | (tính từ) 1. (thuộc) nhà nước; 2. (thuộc) chính trị; 3. dành riêng cho nghi lễ; chính thức | (ngoại động từ) 1. phát biểu, nói rõ, tuyên bố; 2. định (ngày, giờ); 3. (toán học) biểu diễn bằng ký hiệu (một phương trình...)",
+    "ipa": "/steit/",
+    "example": "",
+    "pos": "đại từ",
+    "savedAt": "2026-04-17T06:09:20.308Z"
+  },
+  {
+    "id": "1776406157811",
+    "word": "secretary",
+    "lang": "en",
+    "definition": "(danh từ) 1. thư ký, bí thư; 2. bộ trưởng, tổng trưởng | (danh từ) 1. (từ Mỹ,nghĩa Mỹ) (như) secretaire",
+    "ipa": "/'sekrətri/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:17.811Z"
+  },
+  {
+    "id": "1776406155019",
+    "word": "president",
+    "lang": "en",
+    "definition": "(danh từ) 1. chủ tịch (buổi họp, hội nước...); 2. (từ Mỹ,nghĩa Mỹ) tổng thống; 3. hiệu trưởng (trường đại học); 4. (sử học) thống sứ, thống đốc (ở một nước thuộc địa)",
+    "ipa": "/'prezidənt/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:15.019Z"
+  },
+  {
+    "id": "1776406151955",
+    "word": "vice",
+    "lang": "en",
+    "definition": "(danh từ) 1. thói xấu, nết xấu, thói hư tật xấu; 2. sự truỵ lạc, sự đồi bại; 3. chứng, tật (ngựa); 4. thiếu sót, tật | (danh từ) 1. (thông tục) (viết tắt) của vice-president,  vice-chancellor... | (danh từ) 1. (kỹ thuật) mỏ cặp,  êtô | (ngoại động từ) 1. (kỹ thuật) kẹp bằng êtô['vaisi] | (giới từ) 1. thay cho, thế cho",
+    "ipa": "/vais/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:11.955Z"
+  },
+  {
+    "id": "1776406149779",
+    "word": "add",
+    "lang": "en",
+    "definition": "(động từ) 1. ((thường) + up,  together) cộng; 2. thêm vào, làm tăng thêm; 3. nói thêm; 4. (+ in) kế vào, tính vào, gộp vào; 5. (xem) fire; 6. miệng chửi tay đấm",
+    "ipa": "/æd/",
+    "example": "",
+    "pos": "động từ",
+    "savedAt": "2026-04-17T06:09:09.779Z"
+  },
+  {
+    "id": "1776406146226",
+    "word": "peace",
+    "lang": "en",
+    "definition": "(danh từ) 1. hoà bình, thái bình, sự hoà thuận; 2. ((thường) Peace) hoà ước; 3. sự yên ổn, sự trật tự an ninh; 4. sự yên lặng, sự yên tĩnh; sự an tâm",
+    "ipa": "/pi:s/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T06:09:06.226Z"
+  },
+  {
+    "id": "1776406143988",
+    "word": "round",
+    "lang": "en",
+    "definition": "(tính từ) 1. tròn; 2. tròn, chẵn; 3. (từ Mỹ,nghĩa Mỹ) khứ hồi; 4. theo vòng tròn, vòng quanh; 5. thẳng thắn, chân thật, nói không úp mở; 6. sang sảng, vang (giọng); 7. lưu loát, trôi chảy (văn); 8. nhanh, mạnh; 9. khá lớn, đáng kể | (danh từ) 1. vật hình tròn, khoanh; 2. vòng tròn; 3. vòng, sự quay, vòng, sự tuần hoàn, chu kỳ; 4. (nghĩa bóng) phạm vi, lĩnh vực; 5. sự đi vòng, sự đi tua; cuộc kinh lý, cuộc đi dạo; (số nhiều) (quân sự) cuộc tuần tra; 6. tuần chầu (mời rượu...); 7. (thể dục,thể thao) hiệp (quyền Anh); vòng thi đấu (quần vợt...); (đánh bài) hội; 8. tràng, loạt; 9. thanh thang (thanh ngang tròn của cái thang) ((cũng) round of a ladder); 10. (quân sự) phát (súng); viên đạn; 11. (âm nhạc) canông; 12. nêu rõ tất cả những đường nét của một cái gì; nêu bật vấn đề gì | (phó từ) 1. quanh, vòng quanh, loanh quanh; xung quanh, tròn; 2. trở lại, quay trở lại; 3. khắp cả; 4. thuyết phục được ai theo ý kiến mình | (danh từ) 1. quanh, xung quanh, vòng quanh | (ngoại động từ) 1. làm tròn; 2. cắt tròn, cắt cụt; 3. đi vòng quanh mũi đất; 4. ((thường) + off) gọt giũa (một câu); 5. đọc tròn môi; 6. ((thường) + off) làm giàu thêm lên (của cải, tài sản...) | (nội động từ) 1. thành tròn, trở nên tròn; 2. làm tròn; làm cho trọn vẹn; làm cho cân đối; 3. gọt giũa (câu văn); 4. xây dựng thành cơ ngơi; 5. (từ hiếm,nghĩa hiếm) quay lại; 6. bất ngờ đối đáp lại (ai), bất ngờ vặn lại (ai), bất ngờ tấn công lại (ai); 7. (thông tục) làm chỉ điểm, tâu hót, tố giác; 8. tròn ra, mập ra, béo ra; 9. (hàng hải) lái theo chiều gió; 10. chạy vòng quanh để dồn (súc vật); 11. vây bắt, bố ráp",
+    "ipa": "/raund/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:09:03.988Z"
+  },
+  {
+    "id": "1776406128899",
+    "word": "principal",
+    "lang": "en",
+    "definition": "(tính từ) 1. chính, chủ yếu; 2. (ngôn ngữ học) chính | (danh từ) 1. người đứng đầu; 2. giám đốc, hiệu trưởng; 3. chủ, chủ mướn, chủ thuê; 4. người uỷ nhiệm; 5. người đọ súng (đọ gươm) tay đôi; 6. thủ phạm chính; 7. (thương nghiệp) tiền vốn; vốn chính, vốn nguyên thuỷ; 8. (kiến trúc) xà cái, xà chính",
+    "ipa": "/'prinsəpəl/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T06:08:48.899Z"
+  },
+  {
+    "id": "1776404926176",
+    "word": "time",
+    "lang": "en",
+    "definition": "(danh từ) 1. thời gian, thì giờ; 2. thời, thời buổi, mùa; 3. dịp, cơ hội, thời cơ; 4. thời kỳ, thời đại, đời; 5. thời hạn, kỳ hạn; 6. giờ; 7. lúc; 8. lần, lượt, phen; 9. (âm nhạc) nhịp; 10. hết sức khẩn trương; tranh thủ thời gian; vượt thời gian; 11. thỉnh thoảng, đôi khi, đôi lúc; 12. (nghĩa bóng) có những tư tưởng quá cấp tiến; 13. (xem) behind; 14. đẻ non (trẻ); 15. đi trước thời đại; 16. suốt, luôn luôn, lúc nào cũng; 17. giữa lúc ấy, trong khoảng thời gian ấy; 18. (xem) being; 19. thỉnh thoảng, đôi lúc; 20. trì hoãn, kéo dài thời gian; 21. đúng lúc; đúng nhịp; 22. (xem) no; 23. (xem) keep; 24. lấy lại thời gian đã mất; 25. không đúng lúc; không đúng nhịp; 26. chào hỏi (ai); 27. tuổi (của người); 28. thời gian vui thích thoải mái được trải qua | (ngoại động từ) 1. chọn thời gian, tính toán thì giờ, sắp xếp thời gian; 2. (thể dục,thể thao) tính giờ, bấm giờ (một cuộc đua...); 3. điều chỉnh (cho đúng nhịp)",
+    "ipa": "/taim/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:48:46.176Z"
+  },
+  {
+    "id": "1776404921562",
+    "word": "okay",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự đồng ý, sự tán thành; 2. interj; 3. vâng, được lắm",
+    "ipa": "",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:48:41.562Z"
+  },
+  {
+    "id": "1776404918105",
+    "word": "future",
+    "lang": "en",
+    "definition": "(tính từ) 1. tương lai | (danh từ) 1. tương lai; 2. (số nhiều) (thương nghiệp) hàng hoá bán sẽ giao sau; 3. hợp đông về hàng hoá bán giao sau; 4. về sau này, trong tương lai",
+    "ipa": "/'fju:tʃə/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:48:38.105Z"
+  },
+  {
+    "id": "1776404914649",
+    "word": "definitively",
+    "lang": "en",
+    "definition": "(phó từ) 1. rạch ròi, dứt khoát",
+    "ipa": "",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:48:34.649Z"
+  },
+  {
+    "id": "1776404910201",
+    "word": "position",
+    "lang": "en",
+    "definition": "(danh từ) 1. vị trí, chỗ (của một vật gì); 2. (quân sự) vị trí; 3. thế; 4. tư thế; 5. địa vị; chức vụ; 6. lập trường, quan điểm, thái độ; 7. luận điểm; sự đề ra luận điểm | (ngoại động từ) 1. đặt vào vị trí; 2. xác định vị trí (cái gì...); 3. (quân sự) đóng (quân ở vị trí)",
+    "ipa": "/pə'ziʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:48:30.201Z"
+  },
+  {
+    "id": "1776404905256",
+    "word": "media",
+    "lang": "en",
+    "definition": "(danh từ) 1. người trung gian, vật môi giới; 2. trung dung, sự chiết trung; 3. bà đồng, đồng cốt; 4. (nghệ thuật) chất pha màu; 5. hoàn cảnh, môi trường; 6. phương tiện, dụng cụ | (tính từ) 1. trung bình, trung, vừa",
+    "ipa": "/'mi:djəm/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:48:25.256Z"
+  },
+  {
+    "id": "1776404902408",
+    "word": "social",
+    "lang": "en",
+    "definition": "(tính từ) 1. có tính chất xã hội, có tính chất thành viên của một tập thể, sống thành xã hội; 2. thuộc quan hệ giữa người và người; thuộc xã hội; 3. của các đồng minh, với các đồng minh | (danh từ) 1. buổi họp mặt (liên hoan, giải trí); buổi dạ hội",
+    "ipa": "/'souʃəl/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:48:22.408Z"
+  },
+  {
+    "id": "1776404899745",
+    "word": "step",
+    "lang": "en",
+    "definition": "(danh từ) 1. bước, bước đi; bước khiêu vũ; 2. bậc lên xuống, nấc thang; thang đứng ((cũng) step  ladder); bục, bệ (bàn thờ...); 3. cấp bậc; sự thăng cấp; 4. biện pháp; 5. (hàng hải) bệ cột buồm; 6. (kỹ thuật) gối trục | (nội động từ) 1. bước, bước đi; 2. (+ into) bước vào, lâm vào (một hoàn cảnh nào...); 3. (+ on) giẫm lên, lây chân ấn vào, đạp vào, dận | (ngoại động từ) 1. khiêu vũ, nhảy; 2. ((thường) + out) đo bằng bước chân; 3. làm bậc, làm bậc thang cho; 4. (hàng hải) dựng (buồm) lên bệ; 5. bước sang một bên; 6. nói lạc đề; 7. bước vào; 8. can thiệp vào; 9. bước ra một lát (khỏi phòng, nhà...); 10. ((từ Mỹ,nghĩa Mỹ),  (thông tục)) đi đến chỗ hẹn hò với ai; 11. bước dài; 12. đo bằng bước chân; 13. tới gần, tiến lại gần; 14. (từ Mỹ,nghĩa Mỹ) tiến bước, tiến bộ; 15. tăng cường, đẩy mạnh; 16. khiêu vũ; 17. (thông tục) đi vội, rảo bước",
+    "ipa": "/step/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:48:19.745Z"
+  },
+  {
+    "id": "1776404888744",
+    "word": "proliferation",
+    "lang": "en",
+    "definition": "(danh từ) 1. (sinh vật học) sự nảy nở; 2. sự tăng nhanh",
+    "ipa": "/proliferation/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:48:08.744Z"
+  },
+  {
+    "id": "1776404885609",
+    "word": "down",
+    "lang": "en",
+    "definition": "(phó từ) 1. xuống; 2. xuống, bỏ xuống, lặn xuống, ngã xuống, nằm xuống; ở dưới; 3. xuống cho đến, cho đến tận, xuôi theo; 4. hạ bớt, giảm bớt, dần; 5. ở phía dưới, ở vùng dưới, xuôi về (ngụ ý xa nơi trung tâm, xa thành phố lớn; ở nơi trung tâm về...); 6. gục xuống, kiệt sức, ở thế cùng, cùng đường; im đi (ngụ ý trấn áp, bắt im, làm kiệt sức, dồn vào thế cùng...); 7. ngay mặt tiền (trả tiền); 8. ghi chép (trên giấy...); 9. xông vào, lăn xả vào, đánh đập; 10. vẹt gót (giày); 11. đi giày vẹt gót, ăn mặc nhếch nhác (người); 12. sức khoẻ giảm sút; 13. ỉu xìu, chán nản, thất vọng; 14. (xem) luck; 15. hoàn toàn; 16. đả đảo!; 17. (thể dục,thể thao) gục không dậy được nữa, bị đo ván (quyền Anh); 18. cùng đường, cùng kế, thất cơ lỡ vận; thua cháy túi (đánh bạc); 19. ngay lập tức; 20. (xem) up | (giới từ) 1. xuống, xuôi, xuôi dọc theo; 2. ở phía thấp, ở dưới; 3. (nghĩa bóng) vứt bỏ, bỏ đi | (tính từ) 1. xuống, xuôi; 2. chán nản, nản lòng, thất vọng; 3. (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao) kém điểm (đối phương) | (ngoại động từ) 1. đặt xuống, hạ xuống, bỏ xuống; 2. đánh gục, đánh ngã (ai); hạ, bắn rơi (máy bay); 3. nốc một cốc rượu; 4. bãi công; 5. ngừng việc | (danh từ) 1. ((thường) số nhiều) cảnh sa sút, vận xuống dốc; 2. (thông tục) sự ghét (chỉ muốn nện cho một trận) | (danh từ) 1. lông tơ chim (để nhồi gối...); 2. lông tơ (ở trái cây, ở má...) | (danh từ) 1. vùng cao nguyên, vùng đồi; 2. (số nhiều) vùng đồi trọc (có nhiều bãi cỏ chăn nuôi ở miền nam nước Anh); 3. cồn cát, đụn cát",
+    "ipa": "/daun/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:48:05.609Z"
+  },
+  {
+    "id": "1776404881761",
+    "word": "courageous",
+    "lang": "en",
+    "definition": "(tính từ) 1. can đảm, dũng cảm",
+    "ipa": "/kə'reidʤəs/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:48:01.761Z"
+  },
+  {
+    "id": "1776404864427",
+    "word": "japanese",
+    "lang": "en",
+    "definition": "(tính từ+  /dʤə'pɔnik/) 1. (thuộc) Nhật bản | (danh từ) 1. người Nhật bản; 2. tiếng Nhật bản",
+    "ipa": "/,dʤæpə'ni:z/",
+    "example": "",
+    "pos": "tính từ+  /dʤə'pɔnik/",
+    "savedAt": "2026-04-17T05:47:44.427Z"
+  },
+  {
+    "id": "1776404860753",
+    "word": "anniversary",
+    "lang": "en",
+    "definition": "(danh từ) 1. ngày kỷ niệm; lễ kỷ niệm",
+    "ipa": "/,æni'və:səri/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:40.753Z"
+  },
+  {
+    "id": "1776404857968",
+    "word": "marking",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự ghi nhãn; 2. sự đánh dấu/ghi dấu; 3. vết dụng cụ (trên bề mặt gia công)",
+    "ipa": "",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:37.968Z"
+  },
+  {
+    "id": "1776404852488",
+    "word": "mention",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự kể ra, sự nói đến, sự đề cập; 2. sự tuyên dương | (ngoại động từ) 1. kể ra, nói đến, đề cập; 2. tuyên dương; 3. không sao, không dám",
+    "ipa": "/'menʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:32.488Z"
+  },
+  {
+    "id": "1776404850124",
+    "word": "specifically",
+    "lang": "en",
+    "definition": "(phó từ) 1. chính xác, rõ rệt; 2. đặc trưng, riêng biệt",
+    "ipa": "/spi'sifikəli/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:47:30.124Z"
+  },
+  {
+    "id": "1776404847337",
+    "word": "reject",
+    "lang": "en",
+    "definition": "(danh từ) 1. vật bị loại, vật bỏ đi, vật không được chọn; 2. người bị loại (trong kỳ tuyển quân...), người bị đánh hỏng thi; 3. (thương nghiệp) phế phẩm | (ngoại động từ) 1. không nhanh, không chấp thuận, bác bỏ; 2. loại ra, bỏ ra; đánh hỏng (thí sinh); 3. từ chối không tiếp (ai); 4. mửa, nôn ra",
+    "ipa": "/'ri:dʤekt/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:27.337Z"
+  },
+  {
+    "id": "1776404843632",
+    "word": "sophisticated",
+    "lang": "en",
+    "definition": "(tính từ) 1. tinh vi, phức tạp, rắc rối; 2. khôn ra, thạo đời ra; 3. giả, giả mạo; pha, không nguyên chất (rượu, dầu...)",
+    "ipa": "/sə'fistikeitid/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:47:23.632Z"
+  },
+  {
+    "id": "1776404840864",
+    "word": "powerful",
+    "lang": "en",
+    "definition": "(tính từ) 1. hùng mạnh, hùng cường, mạnh mẽ; 2. có quyền thế lớn, có quyền lực lớn, có uy quyền lớn",
+    "ipa": "/'pauəful/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:47:20.864Z"
+  },
+  {
+    "id": "1776404837920",
+    "word": "recourse",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự nhờ đến, sự cầu đến, sự trông cậy vào; 2. (từ hiếm,nghĩa hiếm) người trông cậy",
+    "ipa": "/ri'kɔ:s/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:17.920Z"
+  },
+  {
+    "id": "1776404834408",
+    "word": "temptation",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự xúi giục; 2. sự cám dỗ, sự quyến rũ",
+    "ipa": "/temp'teiʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:14.408Z"
+  },
+  {
+    "id": "1776404831360",
+    "word": "indeed",
+    "lang": "en",
+    "definition": "(phó từ) 1. thực vậy, thực mà, quả thực, thực lại là; 2. thực vậy ư, thế à, vậy à, thế",
+    "ipa": "/in'di:d/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:47:11.360Z"
+  },
+  {
+    "id": "1776404828641",
+    "word": "never",
+    "lang": "en",
+    "definition": "(phó từ) 1. không bao giờ, không khi nào; 2. không, đừng; 3. (xem) better; 4. dù là, dẫu là; 5. muốn sửa chữa thì chả lo là muộn",
+    "ipa": "/'nevə/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:47:08.641Z"
+  },
+  {
+    "id": "1776404825484",
+    "word": "get",
+    "lang": "en",
+    "definition": "(ngoại động từ got) 1. được, có được, kiếm được, lấy được; 2. nhận được, xin được, hỏi được; 3. tìm ra, tính ra; 4. mua; 5. học (thuộc lòng); 6. mắc phải; 7. (thông tục) ăn; 8. bắt được (cá, thú rừng...); đem về, thu về (thóc...); 9. (thông tục) hiểu được, nắm được (ý...); 10. đưa, mang, chuyền, đem, đi lấy; 11. bị, chịu; 12. (thông tục) dồn (ai) vào thế bí, dồn (ai) vào chân tường; làm (ai) bối rối lúng túng không biết ăn nói ra sao; 13. làm cho, khiến cho; 14. sai ai, bảo ai, nhờ ai (làm gì); 15. (thông tục) to have got có, phải; 16. sinh, đẻ (thú vật; ít khi dùng cho người); 17. tìm hộ, mua hộ, xoay hộ, cung cấp | (nội động từ) 1. đến, tới, đạt đến; 2. trở nên, trở thành, thành ra, đi đến chỗ; 3. bắt đầu; 4. (từ lóng) cút đi, chuồn",
+    "ipa": "/get/",
+    "example": "",
+    "pos": "ngoại động từ got",
+    "savedAt": "2026-04-17T05:47:05.484Z"
+  },
+  {
+    "id": "1776404823057",
+    "word": "we",
+    "lang": "en",
+    "definition": "(danh từ) 1. chúng tôi, chúng ta",
+    "ipa": "/wi:/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:47:03.057Z"
+  },
+  {
+    "id": "1776404819864",
+    "word": "must",
+    "lang": "en",
+    "definition": "(trợ động từ) 1. phải, cần phải, nên; 2. chắc hẳn là, thế mà... cứ | (danh từ) 1. sự cần thiết | (tính từ) 1. cần thiết | (danh từ) 1. hèm rượu nho; 2. mốc; 3. cơn hăng, cơn hung dữ (của voi đực, lạc đà đực) ((cũng) musth)",
+    "ipa": "/mʌst - məst/",
+    "example": "",
+    "pos": "trợ động từ",
+    "savedAt": "2026-04-17T05:46:59.864Z"
+  },
+  {
+    "id": "1776404814832",
+    "word": "devastate",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. tàn phá, phá huỷ, phá phách",
+    "ipa": "/di:'væljueit/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T05:46:54.832Z"
+  },
+  {
+    "id": "1776404810954",
+    "word": "place",
+    "lang": "en",
+    "definition": "(danh từ) 1. nơi, chỗ, địa điểm, địa phương (thành phố, tỉnh, làng...); 2. nhà, nơi ở, nơi (dùng vào mục đích gì); 3. chỗ, vị trí, địa vị; chỗ ngồi, chỗ đứng; chỗ thích đáng; chỗ thích hợp; 4. chỗ làm; 5. nhiệm vụ, cương vị; 6. địa vị (xã hôi), cấp bậc, thứ bậc, hạng; 7. đoạn sách, đoạn bài nói; 8. quảng trường, chỗ rộng ((thường) có tên riêng ở trước); đoạn phố; 9. (quân sự) vị trí; 10. (toán học) vị trí (của một con số trong một dãy số); 11. thứ tự; 12. thay vì, thay cho, thay thế vào; 13. có vẻ lúng túng; 14. không đúng chỗ, không thích hợp; 15. xảy ra, được cử hành được tổ chức | (ngoại động từ) 1. để, đặt; 2. cứ làm, đưa vào làm, đặt vào (cương vị công tác); 3. đầu tư (vốn); 4. đưa cho, giao cho; 5. xếp hạng; 6. bán; 7. nhớ (tên, nơi gặp gỡ...); 8. đánh giá (ai, về tính tình, địa vị...); 9. (thể dục,thể thao) ghi (bàn thắng bóng đá) bằng cú đặt bóng sút",
+    "ipa": "/pleis/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:46:50.954Z"
+  },
+  {
+    "id": "1776404800841",
+    "word": "pain",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự đau đớn, sự đau khổ (thể chất, tinh thần); 2. (số nhiều) sự đau đẻ; 3. (số nhiều) nỗi khó nhọc công sức; 4. hình phạt; 5. chịu thương chịu khó làm cái gì; 6. quấy rầy ai, chọc tức ai | (ngoại động từ) 1. làm đau đớn, làm đau khổ | (nội động từ) 1. đau nhức, đau đớn",
+    "ipa": "/pein/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:46:40.841Z"
+  },
+  {
+    "id": "1776404795864",
+    "word": "cry",
+    "lang": "en",
+    "definition": "(danh từ) 1. tiếng kêu, tiêng la, tiếng hò hét, tiếng hò reo (vì đau đớn, sợ, mừng rỡ...); 2. tiếng rao hàng ngoài phố; 3. lời hô, lời kêu gọi; 4. sự khóc, tiếng khóc; 5. dư luận quần chúng, tiếng nói quần chúng; 6. tiếng chó sủa ((nghĩa đen) & (nghĩa bóng)); 7. quãng cách xa; sự khác xa; 8. ở trong một đám đông vô danh; 9. hò hét đuổi theo; 10. (xem) hue; 11. chuyện bé xé ra to; 12. trong tầm tai nghe được | (động từ) 1. kêu, gào, thét, la hét; 2. khóc, khóc lóc; 3. rao; 4. chê bai, làm giảm giá trị, làm mất thanh danh; 5. đòi, vòi; 6. thét; 7. tán dương; 8. đòi chia phần; 9. xin dung thứ; 10. khóc tới khi ngủ thiếp đi; 11. (xem) heart; 12. chưa đánh đã khóc, chưa đụng đến đã la làng; 13. chống lại ai, phản khán ai; 14. vạch áo cho người xem lưng, lạy ông tôi ở bụi này; 15. kêu cứu đùa, kêu cứu láo để đánh lừa mọi người; 16. (xem) spill",
+    "ipa": "/krai/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:46:35.864Z"
+  },
+  {
+    "id": "1776404792569",
+    "word": "broken",
+    "lang": "en",
+    "definition": "(tính từ) 1. bị gãy, bị vỡ; 2. vụn; 3. đứt quãng, chập chờn, thất thường; 4. nhấp nhô, gập ghềnh; 5. suy nhược, ốm yếu, quỵ; 6. tuyệt vọng, đau khổ; 7. nói sai; 8. không được tôn trọng, không được thực hiện",
+    "ipa": "/'broukən/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:46:32.569Z"
+  },
+  {
+    "id": "1776404780200",
+    "word": "in",
+    "lang": "en",
+    "definition": "(giới từ) 1. ở, tại, trong (nơi chốn, không gian...); 2. về, vào, vào lúc, trong, trong lúc (thời gian); 3. ở vào, trong (phạm vi, hoàn cảnh, điều kiện, trạng thái, tâm trạng...); trong khi, trong lúc, đang lúc, đang; 4. vào, vào trong; 5. theo; 6. thành; 7. bằng; 8. mặc, đeo...; 9. vì; 10. để; 11. về, ở; 12. (xem) all; 13. (xem) fact; 14. (xem) itself; 15. (xem) far; 16. bởi vì; 17. thực vậy; 18. không nước gì, không ăn thua gì; không phải là một đối thủ đáng gờm; 19. hắn có đủ khả năng làm điều đó; 20. trăm phần không có lấy một phần | (phó từ) 1. vào; 2. ở nhà; 3. đến, đến bến, cặp bến; 4. đang nắm chính quyền; 5. đang mùa; đang thịnh hành, đang là cái mốt; 6. ở trong, ở bên trong; 7. mắc vào, lâm vào; 8. dự thi (một cuộc đua...); 9. giận ai, bực mình với ai; 10. ra ra vào vào, đi đi lại lại; 11. (thông tục) biết thừa đi rồi, biết tỏng đi rồi; 12. để vào!, đem vào! | (danh từ) 1. (số nhiều) (chính trị) (the ins) Đảng đang nắm chính quyền; 2. đảng viên đảng nắm chính quyền; 3. (từ Mỹ,nghĩa Mỹ),  (thông tục) nơi vào, chỗ vào; sự đưa vào; 4. (từ Mỹ,nghĩa Mỹ),  (thông tục) thế lực; 5. những chỗ lồi ra lõm vào, những chỗ ngoằn ngoèo (của một nơi nào); 6. những chi tiết (của một vấn đề...) | (tính từ) 1. trong, nội; 2. (từ Mỹ,nghĩa Mỹ) cầm quyền | (ngoại động từ) 1. thu thập lại, thu vén lại, thu lại; gặt; 2. bao quanh, quây lại",
+    "ipa": "/in/",
+    "example": "",
+    "pos": "giới từ",
+    "savedAt": "2026-04-17T05:46:20.200Z"
+  },
+  {
+    "id": "1776404777457",
+    "word": "next",
+    "lang": "en",
+    "definition": "(tính từ) 1. sát, gần, ngay bên, bên cạnh; 2. sau, ngay sau, tiếp sau; 3. hầu như không | (phó từ) 1. sau, lần sau, tiếp sau, nữa; 2. ngay | (danh từ) 1. gần bên, bên cạnh, sát nách | (danh từ) 1. người tiếp sau; cái tiếp sau, số (báo) sau...",
+    "ipa": "/nekst/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:46:17.457Z"
+  },
+  {
+    "id": "1776404773613",
+    "word": "the",
+    "lang": "en",
+    "definition": "(mạo từ) 1. cái, con, người...; 2. ấy, này (người, cái, con...); 3. duy nhất (người, vật...) | (phó từ) 1. (trước một từ so sánh) càng",
+    "ipa": "/ði:, ði, ðə/",
+    "example": "",
+    "pos": "mạo từ",
+    "savedAt": "2026-04-17T05:46:13.613Z"
+  },
+  {
+    "id": "1776404770487",
+    "word": "month",
+    "lang": "en",
+    "definition": "(danh từ) 1. tháng; 2. lễ cầu kinh một tháng sau khi chết; lễ giỗ ba mươi ngày; 3. một thời gian dài vô tận",
+    "ipa": "/mʌnθ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:46:10.487Z"
+  },
+  {
+    "id": "1776404768133",
+    "word": "elect",
+    "lang": "en",
+    "definition": "(tính từ) 1. chọn lọc; 2. đã được chọn, đã được bầu (nhưng chưa nhậm chức...); 3. (tôn giáo) những người được Chúa chọn (lên thiên đường) | (ngoại động từ) 1. chọn; 2. bầu; 3. quyết định",
+    "ipa": "/i'lekt/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:46:08.133Z"
+  },
+  {
+    "id": "1776404760080",
+    "word": "denounce",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. tố cáo, tố giác, vạch mặt; 2. lên án; phản đối kịch liệt; lăng mạ; 3. tuyên bố bãi ước; 4. báo trước (tai hoạ); đe doạ, hăm doạ (trả thù)",
+    "ipa": "/di'nauns/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T05:46:00.080Z"
+  },
+  {
+    "id": "1776404756704",
+    "word": "repeatedly",
+    "lang": "en",
+    "definition": "(phó từ) 1. lặp đi lặp lại nhiều lần",
+    "ipa": "",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:45:56.704Z"
+  },
+  {
+    "id": "1776404749640",
+    "word": "argue",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. chứng tỏ, chỉ rõ; 2. tranh cãi, tranh luận; 3. cãi lẽ, lấy lý lẽ để bảo vệ; tìm lý lẽ để chứng minh; 4. thuyết phục; 5. rút ra kết luận | (nội động từ) 1. dùng lý lẽ (để biện hộ, để chống lại...); 2. cãi lý, cãi lẽ",
+    "ipa": "/'ɑ:gju:/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T05:45:49.640Z"
+  },
+  {
+    "id": "1776404747112",
+    "word": "free",
+    "lang": "en",
+    "definition": "(tính từ) 1. tự do; 2. không mất tiền, không phải trả tiền; được miễn; 3. (+ from) không bị, khỏi phải, thoát được; 4. rảnh, không có người ở, không có người giữ chỗ; 5. lỏng, không bọ ràng buộc; 6. suồng sã; xấc láo; tục; 7. thanh thoát, uyển chuyển, mềm mại; dễ dàng; 8. rộng rãi, hào phóng; phong phú, nhiều; 9. thông, thông suốt (không bị ngăn cản); 10. tự nguyện, tự ý; 11. được đặc quyền (ở một thành phố); được quyền sử dụng và ra vào (một toà nhà...); 12. xọc xạch; jơ (máy); 13. để cho ai toàn quyền hành động; 14. rảnh tay, không phải lo lắng điều gì; 15. tuỳ thích sử dụng cái gì | (phó từ) 1. tự do; 2. không phải trả tiền; 3. (hàng hải) xiên gió | (ngoại động từ) 1. thả, phóng thích, giải phóng, trả tự do; 2. gỡ ra khỏi; giải thoát; mở thông (một con đường)",
+    "ipa": "/fri:/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:45:47.112Z"
+  },
+  {
+    "id": "1776404741721",
+    "word": "wrong",
+    "lang": "en",
+    "definition": "(tính từ) 1. xấu, không tốt, tồi; 2. trái, ngược; 3. sai, không đúng, lầm; trái lý, sai trái; 4. không ổn; 5. (xem) side; 6. (xem) box; 7. có ý nghĩ hoàn toàn lầm; có cảm tưởng hoàn toàn lầm; 8. (thể dục,thể thao) trái chân, tréo giò | (phó từ) 1. sai, không đúng, không đáng, bậy; 2. lạc; 3. (từ Mỹ,nghĩa Mỹ) bị ai ghét; 4. làm cho ai mất tín nhiệm; làm cho ai bị ghét bỏ; 5. lạc đường, lầm đường; 6. (kỹ thuật) hỏng, không chạy (máy); 7. (thương nghiệp) không chạy, tiến hành không tốt; 8. (nghĩa bóng) trở nên xấu, hỏng đi; 9. (nghĩa bóng) sa ngã, lầm lạc | (danh từ) 1. điều xấu, điều không tốt, mặt xấu, cái xấu; 2. điều sai trái, điều bất công; 3. (pháp lý) điều thiệt hại, điều tổn hại | (ngoại động từ) 1. làm hại, làm thiệt hại (người nào); 2. đối đãi bất công (với người nào); 3. chụp mũ, gán cho những động cơ không tốt",
+    "ipa": "/rɔɳ/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:45:41.721Z"
+  },
+  {
+    "id": "1776404738880",
+    "word": "launch",
+    "lang": "en",
+    "definition": "(danh từ) 1. xuồng lớn (lớn nhất trên một tàu chiến); 2. xuồng du lịch | (danh từ) 1. sự hạ thuỷ (tàu) | (ngoại động từ) 1. hạ thuỷ (tàu); 2. ném, phóng, quăng, liệng (tên lửa; lời đe doạ...); mở (cuộc tấn công); phát động (phong trào...); giáng (quả đấm...); ban bố (sắc lệnh...); 3. khởi đầu, khai trương; 4. đưa (ai) ta, giới thiệu (ai) ra (cho mọi người biết) | (nội động từ) 1. bắt đầu dấn vào, lao vào; 2. chửi rủa ai om sòm; 3. chết, qua đời; 4. chửi rủa một thôi một hồi",
+    "ipa": "/lɔ:ntʃ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:45:38.880Z"
+  },
+  {
+    "id": "1776404729224",
+    "word": "us",
+    "lang": "en",
+    "definition": "(đại từ) 1. chúng tôi, chúng ta, chúng mình",
+    "ipa": "/ s,  s/",
+    "example": "",
+    "pos": "đại từ",
+    "savedAt": "2026-04-17T05:45:29.224Z"
+  },
+  {
+    "id": "1776404726624",
+    "word": "war",
+    "lang": "en",
+    "definition": "(danh từ) 1. chiến tranh; 2. đấu tranh; 3. (định ngữ) chiến tranh | (nội động từ) 1. (+ down) lấy chiến tranh để khuất phục; 2. (nghĩa bóng) đấu tranh, chống lại, đối chọi, mâu thuẫn; 3. (từ cổ,nghĩa cổ) (+ against,  with) đánh nhau, gây chiến, xung đột",
+    "ipa": "/wɔ:/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:45:26.624Z"
+  },
+  {
+    "id": "1776404722280",
+    "word": "point",
+    "lang": "en",
+    "definition": "(danh từ) 1. mũi nhọn (giùi...) mũi kim, đầu ngòi bút; nhánh gạc (hươu nai); cánh (sao); 2. dụng cụ có mũi nhọn, kim khắc, kim trổ; 3. (địa lý,địa chất) mũi đất; 4. (quân sự) đội mũi nhọn; 5. mỏm nhọn; 6. đăng ten ren bằng kim ((cũng) point lace); 7. (số nhiều) chân ngựa; 8. chấm, dấu chấm, điểm; 9. (vật lý),  (toán học) diểm; 10. (thể dục,thể thao) điểm; 11. điểm, vấn đề, mặt; 12. điểm, địa điểm, chỗ, hướng, phương; 13. lúc; 14. nét nổi bật, điểm trọng tâm, điểm cốt yếu, điểm lý thú (câu chuyện, câu nói đùa...); 15. sự sâu sắc, sự chua cay, sự cay độc, sự châm chọc; 16. (ngành in) Poang (đơn vị đo cỡ chữ bằng 0, 0138 insơ); 17. (hàng hải) quăng dây buộc mép buồm; 18. (ngành đường sắt) ghi; 19. (săn bắn) sự đứng sững vểnh mõm làm hiệu chỉ thú săn (chó săn); 20. chẳng cần phải nói khéo; nói thẳng, nói toạt móng heo | (ngoại động từ) 1. vót nhọn (bút chì...); 2. gắn đầu nhọn vào; 3. làm cho sâu sắc, làm cho chua cay, làm cho cay độc; 4. ((thường) + at) chỉ, trỏ, nhắm, chĩa; 5. chấm (câu...); đánh dấu chấm (bài thánh ca cho dễ hát); 6. trét vữa (kẽ gạch, đá xây); 7. đứng sững vểnh mõm chỉ (thú săn) (chó săn) | (nội động từ) 1. (+ at) chỉ, trỏ ((nghĩa đen) & (nghĩa bóng)) nhằm; 2. (+ to,  towards) hướng về; 3. (+ to) hướng sự chú ý vào, lưu ý vào; chỉ ra, chỉ cho thấy, vạch ra; 4. đứng sững vểnh mõm chỉ chú săn (chó săn); 5. vùi (phân) bàng đầu mũi thuổng; 6. tách (số lẻ) bằng dấu phẩy; 7. xới (đất) bằng đầu mũi thuổng; 8. chỉ ra, vạch ra",
+    "ipa": "/pɔint/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:45:22.280Z"
+  },
+  {
+    "id": "1776404714991",
+    "word": "immediately",
+    "lang": "en",
+    "definition": "(phó từ) 1. ngay lập tức, tức thì; 2. trực tiếp",
+    "ipa": "/i'mi:djətli/",
+    "example": "",
+    "pos": "phó từ",
+    "savedAt": "2026-04-17T05:45:14.991Z"
+  },
+  {
+    "id": "1776404711200",
+    "word": "true",
+    "lang": "en",
+    "definition": "(tính từ) 1. thật, thực, đúng, xác thực; 2. chân chính; 3. thành khẩn, chân thành; 4. trung thành; 5. đúng, chính xác; 6. đúng chỗ | (phó từ) 1. thật, thực; 2. đúng | (danh từ) 1. (kỹ thuật) vị trí đúng; 2. sự lắp đúng chỗ | (ngoại động từ) 1. (kỹ thuật) (+ up) điều chỉnh cho đúng chỗ",
+    "ipa": "/tru:/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:45:11.200Z"
+  },
+  {
+    "id": "1776404707892",
+    "word": "word",
+    "lang": "en",
+    "definition": "(danh từ) 1. từ; 2. lời nói, lời; 3. lời báo tin, tin tức, lời nhắn; 4. lời hứa, lời; 5. lệnh, khẩu hiệu; 6. (số nhiều) sự cãi nhau, lời qua tiếng lại; 7. lập tức; 8. giới thiệu ai (làm công tác gì...); 9. lời nói không ăn thua gì (so với hành động); 10. (xem) dog; 11. kiểu mới nhất về (cái gì); thành tựu mới nhất về (cái gì); 12. vừa nói (là làm ngay); 13. bào chữa, nói hộ; 14. khen ngợi; 15. thực hiện ngay lời doạ dẫm; thực hiện ngay lời hứa; 16. lời nói đúng (không đúng) lúc; 17. đối với một người khôn một lời cũng đủ; 18. (tôn giáo) sách Phúc âm | (ngoại động từ) 1. phát biểu, nói lên, bày tỏ, diễn tả",
+    "ipa": "/wə:d/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:45:07.892Z"
+  },
+  {
+    "id": "1776404697704",
+    "word": "can",
+    "lang": "en",
+    "definition": "(danh từ) 1. bình, bi đông, ca (đựng nước); 2. vỏ đồ hộp, hộp đồ hộp; 3. (từ Mỹ,nghĩa Mỹ) ghế đẩu, ghế ngồi ở nhà tiêu; 4. (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhà tù, nhà giam; 5. đã làm xong và sẵn sàng để đem ra dùng; 6. (từ lóng) chịu trách nhiệm, gánh trách nhiệm | (ngoại động từ) 1. đóng hộp (thịt, cá, quả...); 2. ghi vào băng ghi âm, thu vào đĩa (bản nhạc); 3. (từ lóng) đuổi ra khỏi trường (học sinh); đuổi ra, thải ra; 4. (từ Mỹ,nghĩa Mỹ),  (từ lóng) chấm dứt, chặn lại, ngăn lại; 5. (từ Mỹ,nghĩa Mỹ),  (từ lóng) bỏ tù, bắt giam | (động từ could) 1. có thể, có khả năng; 2. có thể, được phép; 3. biết",
+    "ipa": "/kæn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:44:57.705Z"
+  },
+  {
+    "id": "1776404690495",
+    "word": "weapon",
+    "lang": "en",
+    "definition": "(danh từ) 1. vũ khí ((nghĩa đen) & (nghĩa bóng))",
+    "ipa": "/'wepən/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:44:50.495Z"
+  },
+  {
+    "id": "1776404687536",
+    "word": "nuclear",
+    "lang": "en",
+    "definition": "(tính từ) 1. (vật lý) (thuộc) hạt nhân; 2. có nhân",
+    "ipa": "/'nju:kliə/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:44:47.536Z"
+  },
+  {
+    "id": "1776404685048",
+    "word": "he",
+    "lang": "en",
+    "definition": "(đại từ) 1. nó, anh ấy, ông ấy... (chỉ người và động vật giống đực) | (danh từ) 1. đàn ông; con đực; 2. (định ngữ) đực (động vật)",
+    "ipa": "/hi:/",
+    "example": "",
+    "pos": "đại từ",
+    "savedAt": "2026-04-17T05:44:45.048Z"
+  },
+  {
+    "id": "1776404681687",
+    "word": "statement",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự bày tỏ, sự trình bày, sự phát biểu; 2. lời tuyên bố; bản tuyên bố",
+    "ipa": "/'steitmənt/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:44:41.687Z"
+  },
+  {
+    "id": "1776404678416",
+    "word": "pope",
+    "lang": "en",
+    "definition": "(danh từ) 1. giáo hoàng; 2. giáo trưởng; 3. (nghĩa bóng) người ra vẻ không bao giờ có thể sai lầm; 4. nhân mỡ béo ở đùi cừu; 5. chổi tròn cán dài; 6. (xem) nose | (danh từ  poop)) 1. bẹn, vùng bẹn | (ngoại động từ  poop)) 1. đánh vào bẹn (ai)",
+    "ipa": "/poup/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:44:38.416Z"
+  },
+  {
+    "id": "1776404672605",
+    "word": "moment",
+    "lang": "en",
+    "definition": "(danh từ   mo)) 1. chốc, lúc, lát; 2. tầm quan trọng, tính trọng yếu; 3. (kỹ thuật),  (vật lý) Mômen",
+    "ipa": "/'moumənt/",
+    "example": "",
+    "pos": "danh từ   mo)",
+    "savedAt": "2026-04-17T05:44:32.605Z"
+  },
+  {
+    "id": "1776404652008",
+    "word": "anchor",
+    "lang": "en",
+    "definition": "(danh từ) 1. (hàng hải) cái neo, mỏ neo; 2. (kỹ thuật) neo sắt, mấu neo; 3. (nghĩa bóng) nguồn tin cậy, nơi nương tựa; 4. bỏ neo, đậu (tàu); 5. thả neo, bỏ neo (tàu); 6. (nghĩa bóng) có những biện pháp thận trọng; cẩn tắc vô ưu; 7. (hàng hải),  (từ lóng) từ bỏ cuộc đời sống dưới nước | (ngoại động từ) 1. (hàng hải) neo (tàu) lại; 2. néo chặt, giữ chặt (vật gì bằng neo sắt); 3. (nghĩa bóng) níu chặt, bám chặt | (nội động từ) 1. (hàng hải) bỏ neo, thả neo",
+    "ipa": "/'æɳkə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:44:12.008Z"
+  },
+  {
+    "id": "1776404638876",
+    "word": "stance",
+    "lang": "en",
+    "definition": "(danh từ) 1. (thể dục,thể thao) thể đứng (đánh gôn,  crickê); 2. (từ Mỹ,nghĩa Mỹ) thái độ, lập trường",
+    "ipa": "/stæns/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:43:58.876Z"
+  },
+  {
+    "id": "1776404537936",
+    "word": "suggest",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. gợi, làm nảy ra trong trí; 2. đề nghị; 3. đưa ra giả thuyết là; 4. (pháp lý) đề nghị thừa nhận là",
+    "ipa": "/sə'dʤest/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T05:42:17.936Z"
+  },
+  {
+    "id": "1776404532966",
+    "word": "negotiation",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự điều đình, sự đàm phán, sự thương lượng, sự dàn xếp; 2. sự đổi thành tiền, sự đổi lấy tiền, sự trả bằng tiền (chứng khoán, hối phiếu, ngân phiếu); 3. sự vượt qua (khó khăn...)",
+    "ipa": "/ni,gouʃi'eiʃn/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:42:12.966Z"
+  },
+  {
+    "id": "1776404512890",
+    "word": "optimism",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự lạc quang; tính lạc quan; 2. (triết học) chủ nghĩa lạc quan",
+    "ipa": "/'ɔptimizm/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:41:52.890Z"
+  },
+  {
+    "id": "1776404510848",
+    "word": "project",
+    "lang": "en",
+    "definition": "(danh từ) 1. kế hoạch, đề án, dự án; 2. công trình (nghiên cứu); 3. công cuộc lớn (đòi hỏi nhiều tiền, thiết bị, nhân lực) | (ngoại động từ) 1. phóng; chiếu ra; 2. (toán học) chiếu; 3. đặt kế hoạch, thảo kế hoạch, làm đề án | (nội động từ) 1. nhô ra, lồi ra; 2. (từ Mỹ,nghĩa Mỹ) diễn đạt rõ ý, diễn xuất rõ ý (làm cho người nghe, người xem nắm được ý mình)",
+    "ipa": "/project/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:41:50.848Z"
+  },
+  {
+    "id": "1776404503250",
+    "word": "house",
+    "lang": "en",
+    "definition": "(danh từ) 1. nhà ở, căn nhà, toà nhà; 2. nhà, chuồng; 3. quán trọ, quán rượu, tiệm (rượu...); 4. (chính trị) viện (trong quốc hội); 5. rạp hát, nhà hát, người xem, khán giả; buổi biểu diễn (ở nhà hát; 6. đoàn thể tôn giáo; trụ sở của đoàn thể tôn giáo; tu viện; 7. hãng buôn; 8. (the house) (thông tục) thị trường chứng khoán (Luân-ddôn); 9. (nói trại) nhà tế bần; 10. nhà ký túc; toàn thể học sinh trong nhà ký túc; 11. gia đình, dòng họ; triều đại; 12. (quân sự),  (từ lóng) xổ số nội bộ; 13. (định ngữ) nuôi ở trong nhà, (ở) nhà (động vật); 14. bị đuổi ra vỉa hè sống lang thang không cửa không nhà; 15. (xem) bring; 16. quét tước thu dọn nhà cửa; 17. giũ sạch những điều khó chịu; 18. chầu rượu do chủ quán thết; 19. quản lý việc nhà, tề gia nội trợ; 20. (xem) keep; 21. phải ở nhà không bước chân ra cửa; 22. trò chơi xếp nhà (của trẻ con); 23. kế hoạch bấp bênh; 24. (xem) fame; 25. rất nhanh, mạnh mẽ; 26. thu dọn nhà cửa; 27. thu xếp công việc đâu vào đó | (ngoại động từ) 1. đón tiếp (ai) ở nhà; cho ở, cho trọ, chưa (ai...) trong nhà; 2. cất vào kho; lùa (súc vật) vào chuồng; 3. cung cấp nhà ở cho; 4. (hàng hải) đặt (súng đại bác...) vào vị trí chắc chắn; 5. (hàng hải) hạ (cột buồm); 6. (kỹ thuật) lắp vào ổ mộng (đồ mộc) | (nội động từ) 1. ở, trú",
+    "ipa": "/haus/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:41:43.250Z"
+  },
+  {
+    "id": "1776404500761",
+    "word": "white",
+    "lang": "en",
+    "definition": "(tính từ) 1. trắng, bạch, bạc; 2. tái mét, xanh nhợt, trắng bệch; 3. trong, không màu sắc (nước, không khí...); 4. (nghĩa bóng) ngây th, trong trắng; tinh, sạch, sạch sẽ; (nghĩa bóng) vô tội; 5. (chính trị) (thuộc) phái quân chủ; phn cách mạng, phn động; 6. voi trắng; 7. (từ Mỹ,nghĩa Mỹ),  (từ lóng) vật cồng kềnh đắt tiền mà không có ích gì lắm; 8. (xem) feather; 9. ánh sáng mặt trời; 10. (nghĩa bóng) nhận xét khách quan; 11. chiến tranh không đổ máu, chiến tranh kinh tế; 12. thầy phù thuỷ chỉ làm điều thiện | (danh từ) 1. màu trắng; 2. sắc tái, sự tái nhợt; 3. vi trắng, quần áo trắng, đồ trắng; 4. lòng trắng (trứng); tròng trắng (mắt); 5. bột trắng (mì, đại mạch...); 6. người da trắng; 7. (y học) khí hư",
+    "ipa": "/wait/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:41:40.761Z"
+  },
+  {
+    "id": "1776404496728",
+    "word": "face",
+    "lang": "en",
+    "definition": "(danh từ) 1. mặt; 2. vẻ mặt; 3. thể diện, sĩ diện; 4. bộ mặt, bề ngoài, mã ngoài; 5. bề mặt; 6. mặt trước, mặt phía trước; 7. đối diện; 8. ra mặt chống đối, công khai chống đối; 9. đi ngược gió; 10. mặt dạn mày dày mà làm việc gì, có đủ trơ trẽn mà làm việc gì; 11. trước mặt, đứng trước; 12. mặc dầu; 13. một cách công khai; 14. nhăn mặt; 15. chống đối lại; 16. công khai trước mặt ai | (ngoại động từ) 1. đương đầu, đối phó; 2. đứng trước mặt, ở trước mặt; 3. lật (quân bài); 4. nhìn về, hướng về, quay về; 5. đối diện; 6. (thể dục,thể thao) đặt ((nghĩa bóng)) ở giữa hai cầu thủ của hai bên (để bắt đầu thi đấu bóng gậy cong trên băng); 7. (quân sự) ra lệnh quay; 8. viền màu (cổ áo, cửa tay); 9. bọc, phủ, tráng; 10. hồ (chè) | (nội động từ) 1. (quân sự) quay; 2. vượt qua một tình thế; 3. làm xong xuôi cái gì đến cùng",
+    "ipa": "/feis/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:41:36.728Z"
+  },
+  {
+    "id": "1776404492379",
+    "word": "challenge",
+    "lang": "en",
+    "definition": "(danh từ) 1. (quân sự) tiếng hô \"đứng lại\" (của lính đứng gác); 2. sự thách thức; 3. (pháp lý) sự không thừa nhận; 4. hiệu lệnh (cho tàu thuỷ, máy bay) bắt trưng bày dấu hiệu | (ngoại động từ) 1. (quân sự) hô \"đứng lại\" (lính đứng gác); 2. thách, thách thức; 3. không thừa nhận; 4. đòi hỏi, yêu cầu",
+    "ipa": "/'tʃælindʤ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:41:32.379Z"
+  },
+  {
+    "id": "1776404487112",
+    "word": "significant",
+    "lang": "en",
+    "definition": "(tính từ) 1. đầy ý nghĩa, có tính chất gợi ý; 2. quan trọng, trọng đại, đáng chú ý",
+    "ipa": "/sig'nifikənt/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:41:27.112Z"
+  },
+  {
+    "id": "1776404483889",
+    "word": "recognize",
+    "lang": "en",
+    "definition": "(ngoại động từ) 1. công nhận, thừa nhận, chấp nhận; 2. nhìn nhận; 3. nhận ra; 4. (từ Mỹ,nghĩa Mỹ) chấp nhận cho (một đại biểu) phát biểu",
+    "ipa": "/'rekəgnaiz/",
+    "example": "",
+    "pos": "ngoại động từ",
+    "savedAt": "2026-04-17T05:41:23.889Z"
+  },
+  {
+    "id": "1776404481495",
+    "word": "start",
+    "lang": "en",
+    "definition": "(danh từ) 1. lúc bắt đầu, buổi đầu; 2. dị bắt đầu, cơ hội bắt đầu (một công cuộc gì); 3. sự khởi hành, sự ra đi, sự lên đường; 4. chỗ khởi hành, chỗ xuất phát; giờ xuất phát (của cuộc đua); lệnh bắt đầu, lệnh xuất phát (của cuộc đua); 5. sự giật mình; sự giật nảy người (vì đau...); 6. sự chấp (trong thể thao); 7. thế lợi; 8. (thông tục) một sự xảy ra kỳ lạ; 9. không đều, thất thường, từng đợt một | (nội động từ) 1. bắt đầu (đi, làm việc...); 2. chạy (máy); 3. giật mình; 4. rời ra, long ra (gỗ) | (ngoại động từ) 1. bắt đầu; 2. làm (ai, cái gì) bắt đầu, khiến (ai) phải; 3. ra hiệu xuất phát (cho người đua); 4. mở, khởi động (máy); 5. khêu, gây, nêu ra; 6. làm tách ra, làm rời ra, làm long ra (gỗ); 7. giúp đỡ, nâng đỡ (ai, trong công việc); 8. đuổi (thú săn) ra khỏi hang; 9. (từ cổ,nghĩa cổ) (như) startle; 10. né vội sang một bên; 11. (thông tục) bắt đầu làm; 12. khởi hành; 13. khởi công, bắt đầu tiến hành (công việc gì); 14. thình lình đứng dậy; 15. nảy ra, nổi lên; nảy ra trong óc; 16. khởi động (máy); 17. trước hết; 18. lúc bắt đầu",
+    "ipa": "/stɑ:t/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:41:21.495Z"
+  },
+  {
+    "id": "1776404477951",
+    "word": "temporary",
+    "lang": "en",
+    "definition": "(tính từ) 1. tạm thời, nhất thời, lâm thời",
+    "ipa": "/'tempərəri/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:41:17.951Z"
+  },
+  {
+    "id": "1776404469770",
+    "word": "official",
+    "lang": "en",
+    "definition": "(tính từ) 1. (thuộc) chính quyền; (thuộc) văn phòng; 2. chính thức; 3. trịnh trọng, theo nghi thức; 4. (y học) để làm thuốc, dùng làm thuốc | (danh từ) 1. viên chức, công chức; 2. (tôn giáo) uỷ viên tài phán của giáo hội ((thường) official principal)",
+    "ipa": "/ə'fiʃəl/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:41:09.770Z"
+  },
+  {
+    "id": "1776404443864",
+    "word": "fire",
+    "lang": "en",
+    "definition": "(danh từ) 1. lửa, ánh lửa; 2. sự cháy, hoả hoạn, sự cháy nhà; 3. ánh sáng; 4. sự bắn hoả lực; 5. lò sưởi; 6. sự tra tấn bằng lửa; 7. sự sốt, cơn sốt; 8. ngọn lửa ((nghĩa bóng)), sự hăng hái, nhiệt tình, sự sốt sắng, sự vui vẻ hoạt bát; 9. sự xúc động mạnh mẽ; nguồn cảm hứng; óc tưởng tượng linh hoạt; 10. ở trong cảnh nước sôi lửa bỏng; 11. chim phải tên sợ làn cây cong; 12. (xem) flat; 13. đương đầu với nguy hiểm; 14. (xem) hang; 15. (như) to hang fire; 16. thất bại (trong việc gì); 17. tránh vỏ dưa gặp vỏ dừa; 18. chơi với lửa ((nghĩa đen) & (nghĩa bóng)); 19. lửa cháy đổ thêm dầu; 20. làm những việc kinh thiên động địa; 21. (từ Mỹ,nghĩa Mỹ) thành công rực rỡ; lừng danh | (ngoại động từ) 1. đốt cháy, đốt (lò...); 2. làm nổ, bắn (súng...); 3. làm đỏ; 4. nung; 5. sấy (chè, thuốc lá...); 6. đốt, khử trùng (bằng chất hoá học); 7. thải, đuổi, sa thải; 8. (nghĩa bóng) kích thích (trí tưởng tượng); 9. (nghĩa bóng) khuyến khích, làm phấn khởi | (nội động từ) 1. bắt lửa, cháy, bốc cháy; 2. nóng lên; 3. rực đỏ; 4. nổ (súng); nổ súng, bắn; 5. chạy (máy); 6. bắt đầu tiến hành; 7. nổ (súng); 8. bắn tất cả các súng một bên mạn tàu; 9. bắn; 10. (nghĩa bóng) phát ra, nổ ra; 11. nổi giận đùng đùng; 12. bắn súng chào",
+    "ipa": "/'faie/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:40:43.864Z"
+  },
+  {
+    "id": "1776404441108",
+    "word": "cease",
+    "lang": "en",
+    "definition": "(động từ) 1. dừng, ngừng, ngớt, thôi, hết, tạnh | (danh từ) 1. without cease không ngừng, không ngớt, liên tục",
+    "ipa": "/si:s/",
+    "example": "",
+    "pos": "động từ",
+    "savedAt": "2026-04-17T05:40:41.108Z"
+  },
+  {
+    "id": "1776404432704",
+    "word": "cease-fire",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự ngừng bắn; 2. (quân sự) lệnh ngừng bắn",
+    "ipa": "/'si:s,faiə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:40:32.704Z"
+  },
+  {
+    "id": "1776404421096",
+    "word": "ceasefire",
+    "lang": "en",
+    "definition": "(danh từ) 1. như cease-fire | (danh từ) 1. như cease-fire",
+    "ipa": "",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:40:21.096Z"
+  },
+  {
+    "id": "1776404300674",
+    "word": "militia",
+    "lang": "en",
+    "definition": "(danh từ) 1. dân quân",
+    "ipa": "/mi'liʃə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:38:20.674Z"
+  },
+  {
+    "id": "1776404241776",
+    "word": "thin",
+    "lang": "en",
+    "definition": "(tính từ) 1. mỏng, mảnh; 2. gầy gò, mảnh dẻ, mảnh khảnh; 3. loãng; 4. thưa, thưa thớt, lơ thơ; 5. nhỏ, nhỏ hẹp, yếu ớt; 6. mong manh; nghèo nàn; 7. (từ lóng) khó chịu, buồn chán | (ngoại động từ) 1. làm cho mỏng, làm cho mảnh; 2. làm gầy đi, làm gầy bớt; 3. làm loãng, pha loãng; 4. làm thưa, làm giảm bớt, tỉa bớt | (nội động từ) 1. mỏng ra, mảnh đi; 2. gầy đi; 3. loãng ra; 4. thưa bớt đi, thưa thớt",
+    "ipa": "/θin/",
+    "example": "",
+    "pos": "tính từ",
+    "savedAt": "2026-04-17T05:37:21.776Z"
+  },
+  {
+    "id": "1776404226372",
+    "word": "course",
+    "lang": "en",
+    "definition": "(danh từ) 1. tiến trình, dòng; quá trình diễn biến; 2. sân chạy đua, vòng chạy đua; trường đua ngựa ((cũng) race course); 3. hướng, chiều hướng; đường đi; 4. cách cư sử, cách giải quyết; đường lối, con đường ((nghĩa bóng)); 5. món ăn (đưa lần lượt); 6. loạt; khoá; đợt; lớp; 7. hàng gạch, hàng đá; 8. (số nhiều) đạo đức, tư cách; 9. (số nhiều) kỳ hành kinh; 10. theo thủ tục (lệ) thông thường; 11. lệ thường lẽ thường; 12. đang diễn biến; 13. trong khi; 14. đúng lúc; đúng trình tự; 15. một vấn đề dĩ nhiên; 16. dĩ nhiên, đương nhiên, tất nhiên; 17. làm theo ý mình | (ngoại động từ) 1. săn đuổi (thỏ); 2. cho (ngựa) chạy | (nội động từ) 1. chạy; 2. chảy | (danh từ) 1. (thơ ca) ngựa chiến; con tuấn mã",
+    "ipa": "/kɔ:s/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:37:06.372Z"
+  },
+  {
+    "id": "1776404203416",
+    "word": "player",
+    "lang": "en",
+    "definition": "(danh từ) 1. (thể dục,thể thao) cầu thủ, đấu thủ; 2. nhạc sĩ (biểu diễn); 3. (sân khấu) diễn viên; 4. cầu thủ nhà nghề (crickê, bóng chày); 5. người đánh bạc",
+    "ipa": "/'pleiə/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:36:43.416Z"
+  },
+  {
+    "id": "1776404198056",
+    "word": "change",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự đổi, sự thay đổi, sự biến đổi; 2. trăng non; 3. bộ quần áo sạch (để dự phòng) ((cũng) a change of clothes); 4. tiền đổi, tiền lẻ; 5. tiền phụ lại (cho khách hàng); 6. nơi đổi tàu xe; 7. sự giao dịch chứng khoán; thị trường chứng khoán (ở Luân-đôn) ((cũng) Change,  (viết tắt) của Exchange); 8. (số nhiều) trật tự rung chuông; 9. (y học) thời kỳ mãn kinh; 10. không địch lại được ai (trong cuộc tranh luận); không cạnh tranh nổi ai (trong việc buôn bán); 11. (thông tục) không móc được của ai cái gì; 12. lặp đi lặp lại một vấn đề dưới hình thức khác nhau, nhai đi nhai lại một vấn đề dưới những hình thức khác nhau; 13. (thông tục) trả thù ai | (ngoại động từ) 1. đổi, thay, thay đổi; 2. đổi, đổi chác; 3. (+ to,  into,  from) biến đổi, đổi thành; 4. đổi ra tiền lẻ | (nội động từ) 1. thay đổi, biến đổi; 2. sang tuần trăng mới, sang tuần trăng non (trăng); 3. thay quần áo; 4. đổi tàu xe; 5. trở mặt; 6. trả số, xuống số (ô tô); 7. (xem) colour; 8. (xem) condition; 9. đổi chiều đổi hướng (trong cuộc tranh luận...); 10. (thông tục) thay giày; 11. đổi chân nhịp (khi diễu hành theo nhịp trống)",
+    "ipa": "/tʃeindʤ/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:36:38.056Z"
+  },
+  {
+    "id": "1776404194048",
+    "word": "city",
+    "lang": "en",
+    "definition": "(danh từ) 1. thành phố, thành thị, đô thị; 2. dân thành thị; 3. (the City) trung tâm thương nghiệp và tài chính thành phố Luân-đôn; 4. (định ngữ) (thuộc) thành phố; 5. (City) (định ngữ) a City man người kinh doanh,  a City article bài báo bàn về tài chính và thương nghiệp,  City editor người biên tập phụ trách tin tức về tài chính (trong một tờ báo); 6. thiên đường; 7. thành phố độc lập và có chủ quyền (như một nước)",
+    "ipa": "/'siti/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:36:34.048Z"
+  },
+  {
+    "id": "1776404189101",
+    "word": "equipment",
+    "lang": "en",
+    "definition": "(danh từ) 1. sự trang bị; 2. đồ trang bị, thiết bị, dụng cụ, đồ dùng cần thiết (cho một cuộc đi, cho một nhà máy...); 3. (từ Mỹ,nghĩa Mỹ) những phương tiện vận tải để phân biệt với các loại tài sản khác trong ngành vận tải)",
+    "ipa": "/i'kwipmənt/",
+    "example": "",
+    "pos": "danh từ",
+    "savedAt": "2026-04-17T05:36:29.101Z"
+  },
+  {
     "id": "1776400203539",
     "word": "real",
     "definition": "(adj.) 1. thực, thực tế, có thực; 2. thật (không phải giả, không phải nhân tạo); 3. chân chính, đúng, xứng đáng với tên gọi; 4. <pháp> bất động | (n.) 1. thực tế",
